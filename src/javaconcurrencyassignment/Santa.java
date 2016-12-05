@@ -5,6 +5,7 @@
  */
 package javaconcurrencyassignment;
 
+
 /**
  *
  * @author ryanmoss
@@ -16,11 +17,15 @@ public class Santa extends Thread {
     int num_presents_given = 0;
     float time_at_empty_sleigh = 0;
     
+    Sack[] santaSack = new Sack[10];
+    
     public Santa(String name, String department) {
         this.name = name;
         this.department = department;
     }
     public void run() {
+        
+        
         
     }
 }

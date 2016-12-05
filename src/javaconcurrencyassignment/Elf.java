@@ -14,10 +14,15 @@ public class Elf extends Thread {
     String name;
     int total_presents_wrapped = 0;
     float time_at_sleigh = 0;
+    Sleigh sleigh;
     
-    public Elf(String name)
-    {
+    public Elf(String name, Sleigh s) {
         this.name = name;
+        this.sleigh = s;
+    }
+    
+    private void createPresent() {
+        
     }
     
     public void run() {

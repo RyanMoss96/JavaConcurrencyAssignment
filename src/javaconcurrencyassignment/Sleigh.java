@@ -11,16 +11,36 @@ package javaconcurrencyassignment;
  */
 public class Sleigh {
     
-  private void addPresent() {
+  private Presents[] presents = new Presents[10];
+  private int numPresents = 0;
+  private final int maxPresents = 10;
+  
+  public Sleigh() {
       
+  }
+  
+  private void addPresent(Presents item) {
+        presents[numPresents] = item;
+        try {
+            Thread.sleep((int) (Math.random() * 10));
+        } catch (InterruptedException ex) {
+        }
+        numPresents++;
+        
   }
   
   private void removePresent() {
       
   }
   
-  public void checkSleighSpace() {
-      addPresent();
+  public void checkSleighSpace(Presents item) {
+      
+      if(numPresents == maxPresents){
+          
+      } else {
+        addPresent(item);  
+      }
+      
   }
   
   public void checkPresentsExist() {
