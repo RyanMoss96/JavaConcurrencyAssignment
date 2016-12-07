@@ -39,6 +39,7 @@ public class Elf extends Thread {
              
             System.out.println(present.type);
             System.out.println(present.gender);
+            System.out.println(present.wrapped);
             System.out.println(" ");
         }
        
@@ -47,7 +48,17 @@ public class Elf extends Thread {
      private void createPresent() {
         present.type = selectPresent();
         present.gender = selectGender();
+       
+        try {
+            sleep((int) (Math.random() * 5));
+        } catch (InterruptedException ex) {
+            
+        }
         
+        present.wrapped = true;
+        
+        
+        //sleigh.checkSleighSpace(present);
         
     }
      

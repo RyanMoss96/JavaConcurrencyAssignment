@@ -5,11 +5,17 @@
  */
 package javaconcurrencyassignment;
 
+import java.util.concurrent.Semaphore;
+
 /**
  *
  * @author ryanmoss
  */
 public class Sleigh {
+    
+    private Semaphore mutex = new Semaphore(1);
+    private Semaphore spaces;
+    private Semaphore items;
     
   private Presents[] presents = new Presents[10];
   private int numPresents = 0;
@@ -20,6 +26,8 @@ public class Sleigh {
   }
   
   private void addPresent(Presents item) {
+      
+      
         presents[numPresents] = item;
         try {
             Thread.sleep((int) (Math.random() * 10));
