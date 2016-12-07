@@ -5,6 +5,8 @@
  */
 package javaconcurrencyassignment;
 
+
+import java.util.Random;
 /**
  *
  * @author ryanmoss
@@ -15,17 +17,57 @@ public class Elf extends Thread {
     int total_presents_wrapped = 0;
     float time_at_sleigh = 0;
     Sleigh sleigh;
+    Presents present = new Presents();
+   
+    String[] present_types =  {"train", "doll", "dinosaur", "whistle", "fake tattoo", "bracelet"};
+    String[] present_genders = {"Boy", "Girl"};
     
-    public Elf(String name, Sleigh s) {
+    public Elf(String name, Sleigh sleigh) {
         this.name = name;
-        this.sleigh = s;
+        this.sleigh = sleigh;
     }
     
-    private void createPresent() {
-        
-    }
+   
     
     public void run() {
+        for (int i=0; i < 5; i++){
+            try {
+                sleep((int) (Math.random() * 5));
+            } catch (InterruptedException ex) {
+            }
+             createPresent();
+             
+            System.out.println(present.type);
+            System.out.println(present.gender);
+            System.out.println(" ");
+        }
+       
+    }
+    
+     private void createPresent() {
+        present.type = selectPresent();
+        present.gender = selectGender();
+        
         
     }
+     
+     private String selectPresent() {
+        int random = randInt(0, 6);
+         
+        return present_types[random];
+     }
+     
+     private String selectGender() {
+         int random = randInt(0,2);
+         
+         return present_genders[random];
+     }
+     
+     private static int randInt(int min, int max) {
+        
+        Random rand = new Random();
+        int randomNum = rand.nextInt((max - min));
+
+        return randomNum;
+}
 }

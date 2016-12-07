@@ -11,23 +11,33 @@ package javaconcurrencyassignment;
  */
 public class Sack {
     
-    public enum Colour {
-        Blue, Pink
-    }
-    
-    
-    private String toy_type;
-    private Colour paper_colour;
-    
+    private Presents[] present = new Presents[10];
+    private int number_of_presents = 0;
     
     public Sack()
     {
         
     }
     
-    public void AddToy(String toy_type, Colour paper_colour)
+    public void AddToy(String type, String gender)
     {
-        this.toy_type = toy_type;
-        this.paper_colour = paper_colour;
+        present[number_of_presents].type = type;
+        present[number_of_presents].gender = gender;
+        
+        number_of_presents++;
     }
+    
+    public String GetGender(int i){
+        return present[i].gender;
+    }
+    
+    public Presents GetPresent(int i)
+    {
+        return present[i];
+    }
+    
+    public int NumberOfPresents() {
+        return number_of_presents;
+    }
+   
 }
