@@ -17,9 +17,9 @@ public class Sleigh {
     private Semaphore spaces;
     private Semaphore presentsSem;
     
-    private final int maxPresents = 25;
-    private Presents[] presents = new Presents[maxPresents];
-    private int numPresents = 0;
+    private final int maxPresents = 10;
+    private Presents[] presents;
+    
     private int nextIn = 0;
     private int nextOut = 0;
     
@@ -27,6 +27,7 @@ public class Sleigh {
   public Sleigh() {
         spaces = new Semaphore(maxPresents);
         presentsSem = new Semaphore(0);
+        presents = new Presents[maxPresents];
   }
   
   private void addPresent(Presents item) {
@@ -35,20 +36,19 @@ public class Sleigh {
         
         presents[nextIn] = item;
         
-        
-        
-        numPresents++;
-        
-        System.out.println(numPresents);
-       
         System.out.println(presents[nextIn].type);
         System.out.println(presents[nextIn].gender);
         System.out.println(presents[nextIn].wrapped);
         System.out.println(" ");
+       
         
+        try {
+            Thread.sleep((int) (Math.random() * 10));
+        } catch (InterruptedException ex) {
+        }
         
       nextIn++;
-        if(nextIn == presents.length){
+        if(nextIn == maxPresents){
             nextIn = 0;
         }
       
@@ -62,18 +62,20 @@ public class Sleigh {
       
         Presents present;
         present = presents[nextOut];
-        System.out.println( presents[nextOut].type);
+        System.out.println( present.type);
         presents[nextOut] = null;
         
-        
+        try {
+            Thread.sleep((int) (Math.random() * 10));
+        } catch (InterruptedException ex) {
+        }
         
         nextOut++;
-        if (nextOut==presents.length)
+        if (nextOut== maxPresents)
             nextOut=0;
         
-        numPresents--;
-       
-        System.out.println(numPresents);
+               
+        
         System.out.println(" ");
         return present;
   }

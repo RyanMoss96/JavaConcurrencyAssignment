@@ -43,6 +43,18 @@ public class JavaConcurrencyAssignment {
          for(int i=0; i < MAX_NUMBER_SANTAS; i++) {
            santas[i].start(); 
         }
+         
+         
+         try {
+           for(int i=0; i < MAX_NUMBER_ELVES; i++) {
+           elves[i].join(); 
+        }
+        
+         for(int i=0; i < MAX_NUMBER_SANTAS; i++) {
+           santas[i].join(); 
+        }
+        } catch (InterruptedException ex) {
+        }
     }
     
 }
