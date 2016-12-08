@@ -18,43 +18,52 @@ public class JavaConcurrencyAssignment {
     public static void main(String[] args) {
         // TODO code application logic here
         
-         final int MAX_NUMBER_ELVES = 5;
-         final int MAX_NUMBER_SANTAS = 3;
-         
-         String[] elfNameArray = {"Ryan", "Matt", "Beradin", "Jack","Connor", "Nick", "Liam", "Tom", "Luke", "Harry"};
-         String[] santaNameArray = {"Santa Nick", "Santa John", "Santa Paul"};
-         
-         Elf[] elves = new Elf[MAX_NUMBER_ELVES];
-         Santa[] santas = new Santa[MAX_NUMBER_SANTAS];
-         Sleigh sleigh = new Sleigh();
-         
-        for(int i = 0; i < MAX_NUMBER_ELVES; i++) {
-            elves[i] = new Elf(elfNameArray[i], sleigh);
-        }
         
-        for(int i = 0; i < MAX_NUMBER_SANTAS; i++) {
-            santas[i] = new Santa(santaNameArray[i], "Toys", sleigh);
-        }
-        
-        for(int i=0; i < MAX_NUMBER_ELVES; i++) {
-           elves[i].start(); 
-        }
-        
-         for(int i=0; i < MAX_NUMBER_SANTAS; i++) {
-           santas[i].start(); 
-        }
+        Clock clock = new Clock();
+        Sleigh sleigh = new Sleigh();
          
+        Elf e1 = new Elf("Ryan", sleigh, clock);
+        Elf e2 = new Elf("Matt", sleigh, clock);
+        Elf e3 = new Elf("Beradin", sleigh, clock);
+        //Elf e4 = new Elf("Liam", sleigh);
+        //Elf e5 = new Elf("Jack", sleigh);
          
-         try {
-           for(int i=0; i < MAX_NUMBER_ELVES; i++) {
-           elves[i].join(); 
-        }
+        Santa s1 = new Santa("Santa Nick", sleigh, clock);
+        Santa s2 = new Santa("Santa Paul", sleigh, clock);
+        Santa s3 = new Santa("Santa John", sleigh, clock);
         
-         for(int i=0; i < MAX_NUMBER_SANTAS; i++) {
-           santas[i].join(); 
-        }
+        clock.start();
+         
+        e1.start();
+        e2.start();
+        e3.start();
+        //e4.start();
+        //e5.start();
+         
+        s1.start();
+        s2.start();
+        s3.start();
+        
+         
+        try {
+            
+            clock.join();
+            
+            e1.join();
+            e2.join();
+            e3.join();
+            //e4.join();
+            //e5.join();
+            
+            s1.join();
+            s2.join();
+            s3.join();
         } catch (InterruptedException ex) {
+
         }
+       
+         
+        System.out.println("Finished");
     }
     
 }

@@ -19,25 +19,30 @@ public class Santa extends Thread {
     float time_at_empty_sleigh = 0;
     
     Sack santaSack;
+    Clock clock;
     
     
-    public Santa(String name, String department, Sleigh sleigh) {
+    public Santa(String name, Sleigh sleigh, Clock clock) {
         this.name = name;
-        this.department = department;
+        //this.department = department;
         this.sleigh = sleigh;
+        this.clock = clock;
         
         santaSack = new Sack();
     }
     public void run() {
         
-        for (int i=0; i < 5; i++){
+        while(!clock.dayOver()) {
             try {
-                sleep((int) (Math.random() * 5));
+                sleep((int) (Math.random() * 10));
             } catch (InterruptedException ex) {
+                
             }
-             
+             System.out.println(clock.getTime());
             getPresents();
         }
+            
+        
         
     }
     
@@ -48,7 +53,7 @@ public class Santa extends Thread {
         
         Presents item = sleigh.removePresent();
           
-        System.out.println(name + " " + " " + item.type + " " + item.gender);          
+        System.out.println("*************** " + name + " " + " " + item.type + " " + item.gender);          
          
         santaSack.AddToy(item);
         
