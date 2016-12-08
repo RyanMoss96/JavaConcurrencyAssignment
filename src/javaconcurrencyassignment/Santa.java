@@ -14,19 +14,45 @@ public class Santa extends Thread {
     
     String name;
     String department;
+    Sleigh sleigh;
     int num_presents_given = 0;
     float time_at_empty_sleigh = 0;
     
-    Sack[] santaSack;
+    Sack santaSack;
     
     
-    public Santa(String name, String department) {
+    public Santa(String name, String department, Sleigh sleigh) {
         this.name = name;
         this.department = department;
+        this.sleigh = sleigh;
+        
+        santaSack = new Sack();
     }
     public void run() {
         
+        for (int i=0; i < 5; i++){
+            try {
+                sleep((int) (Math.random() * 5));
+            } catch (InterruptedException ex) {
+            }
+             
+            getPresents();
+        }
         
+    }
+    
+    
+    private void getPresents()
+    {
+        Presents item = sleigh.checkPresentsExist(name);
+        
+        if(item!=null) {
+            santaSack.AddToy(item);
+        
+        
+        } else {
+        System.out.println("null");
+        }
         
     }
 }

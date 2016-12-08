@@ -20,17 +20,28 @@ public class JavaConcurrencyAssignment {
         
          final int MAX_NUMBER_ELVES = 5;
          final int MAX_NUMBER_SANTAS = 3;
+         
          String[] elfNameArray = {"Ryan", "Matt", "Beradin", "Jack","Connor", "Nick", "Liam", "Tom", "Luke", "Harry"};
+         String[] santaNameArray = {"Santa Nick", "Santa John", "Santa Paul"};
          
          Elf[] elves = new Elf[MAX_NUMBER_ELVES];
+         Santa[] santas = new Santa[MAX_NUMBER_SANTAS];
          Sleigh sleigh = new Sleigh();
          
         for(int i = 0; i < MAX_NUMBER_ELVES; i++) {
             elves[i] = new Elf(elfNameArray[i], sleigh);
         }
         
+        for(int i = 0; i < MAX_NUMBER_SANTAS; i++) {
+            santas[i] = new Santa(santaNameArray[i], "Toys", sleigh);
+        }
+        
         for(int i=0; i < MAX_NUMBER_ELVES; i++) {
            elves[i].start(); 
+        }
+        
+         for(int i=0; i < MAX_NUMBER_SANTAS; i++) {
+           santas[i].start(); 
         }
     }
     

@@ -11,29 +11,35 @@ package javaconcurrencyassignment;
  */
 public class Sack {
     
-    private Presents[] present = new Presents[10];
+    private int maxPresents = 10;
+    private Presents[] presents = new Presents[maxPresents];
     private int number_of_presents = 0;
+    private int nextIn = 0;
     
     public Sack()
     {
         
     }
     
-    public void AddToy(String type, String gender)
+    public void AddToy(Presents present)
     {
-        present[number_of_presents].type = type;
-        present[number_of_presents].gender = gender;
+        presents[nextIn] = present;
+       
+        nextIn++;
+        if(nextIn == presents.length){
+            nextIn = 0;
+        }
         
         number_of_presents++;
     }
     
     public String GetGender(int i){
-        return present[i].gender;
+        return presents[i].gender;
     }
     
     public Presents GetPresent(int i)
     {
-        return present[i];
+        return presents[i];
     }
     
     public int NumberOfPresents() {

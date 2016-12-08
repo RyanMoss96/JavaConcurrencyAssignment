@@ -17,7 +17,7 @@ public class Elf extends Thread {
     int total_presents_wrapped = 0;
     float time_at_sleigh = 0;
     Sleigh sleigh;
-    Presents present = new Presents();
+    Presents present;
    
     String[] present_types =  {"train", "doll", "dinosaur", "whistle", "fake tattoo", "bracelet"};
     String[] present_genders = {"Boy", "Girl"};
@@ -25,6 +25,8 @@ public class Elf extends Thread {
     public Elf(String name, Sleigh sleigh) {
         this.name = name;
         this.sleigh = sleigh;
+        
+        present = new Presents();
     }
     
    
@@ -37,10 +39,7 @@ public class Elf extends Thread {
             }
              createPresent();
              
-            System.out.println(present.type);
-            System.out.println(present.gender);
-            System.out.println(present.wrapped);
-            System.out.println(" ");
+            
         }
        
     }
@@ -56,9 +55,9 @@ public class Elf extends Thread {
         }
         
         present.wrapped = true;
+        total_presents_wrapped++;
         
-        
-        //sleigh.checkSleighSpace(present);
+        sleigh.checkSleighSpace(present, name);
         
     }
      
