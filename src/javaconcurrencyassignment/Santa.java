@@ -44,15 +44,17 @@ public class Santa extends Thread {
     
     private void getPresents()
     {
-        Presents item = sleigh.checkPresentsExist(name);
-        
-        if(item!=null) {
-            santaSack.AddToy(item);
         
         
-        } else {
-        System.out.println("null");
-        }
+        Presents item = sleigh.removePresent();
+          
+        System.out.println(name + " " + " " + item.type + " " + item.gender);          
+         
+        santaSack.AddToy(item);
+        
+           
+        
+
         
     }
 }

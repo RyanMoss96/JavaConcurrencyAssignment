@@ -19,6 +19,7 @@ public class Sleigh {
     
     private final int maxPresents = 10;
     private Presents[] presents;
+    private int numPresents = 0;
     
     private int nextIn = 0;
     private int nextOut = 0;
@@ -30,87 +31,94 @@ public class Sleigh {
         presents = new Presents[maxPresents];
   }
   
-  private void addPresent(Presents item) {
+  public void addPresent(Presents item) {
       
-      
-        
-        presents[nextIn] = item;
-        
-        System.out.println(presents[nextIn].type);
-        System.out.println(presents[nextIn].gender);
-        System.out.println(presents[nextIn].wrapped);
-        System.out.println(" ");
-       
-        
         try {
-            Thread.sleep((int) (Math.random() * 10));
-        } catch (InterruptedException ex) {
-        }
-        
-      nextIn++;
-        if(nextIn == maxPresents){
-            nextIn = 0;
-        }
-      
-        
-        
-  }
-  
-  private Presents removePresent() {
-        
-      
-      
-        Presents present;
-        present = presents[nextOut];
-        System.out.println( present.type);
-        presents[nextOut] = null;
-        
-        try {
-            Thread.sleep((int) (Math.random() * 10));
-        } catch (InterruptedException ex) {
-        }
-        
-        nextOut++;
-        if (nextOut== maxPresents)
-            nextOut=0;
-        
-               
-        
-        System.out.println(" ");
-        return present;
-  }
-  
-  public void checkSleighSpace(Presents item, String name) {
-      
-      try {
             spaces.acquire();
             mutex.acquire();
         } catch (InterruptedException ex) {
             ex.printStackTrace();
         }
-          
-        System.out.println(name);
-        addPresent(item);  
+        
+        presents[nextIn] = item;
+        numPresents++;
+        
+        
+        
+        nextIn++;
+        if(nextIn == presents.length){
+            nextIn = 0;
+        }
       
         presentsSem.release();
         mutex.release();
   }
   
-  public Presents checkPresentsExist(String name) {
-      
-      try {
+  public Presents removePresent() {
+        
+        try {
             presentsSem.acquire();
             mutex.acquire();
         } catch (InterruptedException ex) {
             ex.printStackTrace();
         }
-        System.out.println(name);
-        Presents item = removePresent();
+      
+        Presents present;
+        present = presents[nextOut];
+        numPresents--;
+        
+       
+        
+        nextOut++;
+        if (nextOut == presents.length)
+        {
+            nextOut=0;
+        }
+        
         spaces.release();
         mutex.release();
-        return item;
-              
+               
+        return present;
+  }
+  
+  public boolean sleighFull() {
+      boolean full = true;
       
+      try{
+        mutex.acquire();  
+        
+        if(numPresents != maxPresents)
+        {
+            full = false;
+        }
+      } catch (InterruptedException ex) {
+          ex.printStackTrace();
+      }
+      
+      
+      mutex.release();
+      
+      return full;
+  }
+  
+  public boolean sleighEmpty() {
+      boolean empty = false;
+      
+      try{
+        mutex.acquire();  
+        
+        if(numPresents == 0)
+        {
+            empty = true;
+        }
+      } catch (InterruptedException ex) {
+          ex.printStackTrace();
+      }
+      
+      
+      mutex.release();
+      
+      return empty;
   }
     
 }

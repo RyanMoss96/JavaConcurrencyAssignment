@@ -57,7 +57,15 @@ public class Elf extends Thread {
         present.wrapped = true;
         total_presents_wrapped++;
         
-        sleigh.checkSleighSpace(present, name);
+        
+        
+        
+        
+            sleigh.addPresent(present);
+            
+            System.out.println(name + " " + " " + present.type + " " + present.gender);
+            
+        
         
     }
      
