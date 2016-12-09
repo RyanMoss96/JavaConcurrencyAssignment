@@ -14,7 +14,7 @@ public class Clock extends Thread {
      private final int dayTime = 60 * 8;
      private boolean dayFinished = false;
      private int timer = 0;
-     private final int tick = 1000;
+     private final int tick = 10;
     
     public void Clock() {
         

@@ -45,5 +45,9 @@ public class Sack {
     public int NumberOfPresents() {
         return number_of_presents;
     }
+    
+    public int MaxPresents() {
+        return maxPresents;
+    }
    
 }

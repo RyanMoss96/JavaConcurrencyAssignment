@@ -13,5 +13,6 @@ public class Presents {
     public String type;
     public String gender;
     public boolean wrapped;
+    public String colourPaper;
     
 }

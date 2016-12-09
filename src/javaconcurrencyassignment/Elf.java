@@ -6,6 +6,8 @@
 package javaconcurrencyassignment;
 
 
+import java.io.IOException;
+import java.io.PrintWriter;
 import java.util.Random;
 /**
  *
@@ -13,15 +15,19 @@ import java.util.Random;
  */
 public class Elf extends Thread {
     
-    String name;
-    int total_presents_wrapped = 0;
-    float time_at_sleigh = 0;
-    Sleigh sleigh;
-    Presents present;
-    Clock clock;
+    private String name;
+    private int total_presents_wrapped = 0;
+    private int time_at_sleigh = 0;
+    private Sleigh sleigh;
+    private Presents present;
+    private Clock clock;
+    private int time;
    
-    String[] present_types =  {"train", "doll", "dinosaur", "whistle", "fake tattoo", "bracelet"};
-    String[] present_genders = {"Boy", "Girl"};
+    private String[] present_types =  {"train", "doll", "dinosaur", "whistle", "fake tattoo", "bracelet"};
+    private String[] present_genders = {"Boy", "Girl"};
+    
+    
+    private PrintWriter writer;
     
     public Elf(String name, Sleigh sleigh, Clock clock) {
         this.name = name;
@@ -34,31 +40,63 @@ public class Elf extends Thread {
    
     
     public void run() {
-        
+        openFileForWriting();
         while(!clock.dayOver()) {
-           try {
-                sleep((int) (Math.random() * 5));
+           
+            //Selecting a present for a random amount of time
+            try {
+                sleep((int) (Math.random() * 10));
             } catch (InterruptedException ex) {
             }
              createPresent(); 
         }
+        
+        closeFileForWriting();
         
     }
     
      private void createPresent() {
         present.type = selectPresent();
         present.gender = selectGender();
+        
        
+        time = clock.getTime();
+        
+        writeToFile("Time " + time + " Elf " + name + ": Selected Toy " + present.type + ", " + present.gender);
+
+        //Random time to simulate wrapping the present
         try {
-            sleep((int) (Math.random() * 5));
+            sleep((int) (Math.random() * 10));
         } catch (InterruptedException ex) {
             
         }
         
+        
+        
         present.wrapped = true;
         total_presents_wrapped++;
         
+        if(present.gender.equals("Boy")) {
+            present.colourPaper = "Blue";
+        } else {
+            present.colourPaper = "Pink";
+        }
+        time = clock.getTime();
+        writeToFile("Time " + time + " Elf " + name + ": Wrapped Toy " + present.type + ", in " + present.colourPaper + " wrapping paper.");
+        
+        int startSleighTime = clock.getTime();
+        
+         time = clock.getTime();
+        writeToFile("Time " + time + " Elf " + name + ": Placed Toy " + present.type + ", on the sleigh. " );
+        
         sleigh.addPresent(present);
+        
+        int endSleighTime = clock.getTime();
+        
+        int difference = endSleighTime - startSleighTime;
+        
+        time_at_sleigh += difference;
+        
             
         System.out.println(name + " " + " " + present.type + " " + present.gender);
    
@@ -81,4 +119,22 @@ public class Elf extends Thread {
 
         return randomNum;
     }
+     
+    private void openFileForWriting() {
+        try{
+            writer = new PrintWriter("Elf-" + name + "-output.txt", "UTF-8");
+        } catch (IOException e) {
+            // do something
+        }
+    }
+     
+    private void writeToFile(String line) {
+        writer.println(line);
+        
+    }
+    
+    private void closeFileForWriting() {
+        writer.close();
+    }
 }
+

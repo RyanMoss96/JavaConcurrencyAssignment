@@ -1,0 +1,393 @@
+Time 1 Elf Ryan: Selected Toy bracelet, Boy
+Time 2 Elf Ryan: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 2 Elf Ryan: Placed Toy bracelet, on the sleigh. 
+Time 2 Elf Ryan: Selected Toy fake tattoo, Boy
+Time 2 Elf Ryan: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 2 Elf Ryan: Placed Toy fake tattoo, on the sleigh. 
+Time 3 Elf Ryan: Selected Toy whistle, Girl
+Time 4 Elf Ryan: Wrapped Toy whistle, in Pink wrapping paper.
+Time 4 Elf Ryan: Placed Toy whistle, on the sleigh. 
+Time 4 Elf Ryan: Selected Toy train, Boy
+Time 4 Elf Ryan: Wrapped Toy train, in Blue wrapping paper.
+Time 4 Elf Ryan: Placed Toy train, on the sleigh. 
+Time 5 Elf Ryan: Selected Toy whistle, Girl
+Time 6 Elf Ryan: Wrapped Toy whistle, in Pink wrapping paper.
+Time 6 Elf Ryan: Placed Toy whistle, on the sleigh. 
+Time 6 Elf Ryan: Selected Toy train, Boy
+Time 6 Elf Ryan: Wrapped Toy train, in Blue wrapping paper.
+Time 6 Elf Ryan: Placed Toy train, on the sleigh. 
+Time 9 Elf Ryan: Selected Toy whistle, Girl
+Time 10 Elf Ryan: Wrapped Toy whistle, in Pink wrapping paper.
+Time 10 Elf Ryan: Placed Toy whistle, on the sleigh. 
+Time 12 Elf Ryan: Selected Toy fake tattoo, Girl
+Time 12 Elf Ryan: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 12 Elf Ryan: Placed Toy fake tattoo, on the sleigh. 
+Time 17 Elf Ryan: Selected Toy train, Boy
+Time 18 Elf Ryan: Wrapped Toy train, in Blue wrapping paper.
+Time 18 Elf Ryan: Placed Toy train, on the sleigh. 
+Time 23 Elf Ryan: Selected Toy fake tattoo, Boy
+Time 23 Elf Ryan: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 23 Elf Ryan: Placed Toy fake tattoo, on the sleigh. 
+Time 27 Elf Ryan: Selected Toy fake tattoo, Girl
+Time 27 Elf Ryan: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 27 Elf Ryan: Placed Toy fake tattoo, on the sleigh. 
+Time 31 Elf Ryan: Selected Toy whistle, Boy
+Time 32 Elf Ryan: Wrapped Toy whistle, in Blue wrapping paper.
+Time 32 Elf Ryan: Placed Toy whistle, on the sleigh. 
+Time 34 Elf Ryan: Selected Toy train, Girl
+Time 34 Elf Ryan: Wrapped Toy train, in Pink wrapping paper.
+Time 34 Elf Ryan: Placed Toy train, on the sleigh. 
+Time 39 Elf Ryan: Selected Toy bracelet, Boy
+Time 40 Elf Ryan: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 40 Elf Ryan: Placed Toy bracelet, on the sleigh. 
+Time 42 Elf Ryan: Selected Toy train, Girl
+Time 42 Elf Ryan: Wrapped Toy train, in Pink wrapping paper.
+Time 42 Elf Ryan: Placed Toy train, on the sleigh. 
+Time 47 Elf Ryan: Selected Toy bracelet, Girl
+Time 47 Elf Ryan: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 47 Elf Ryan: Placed Toy bracelet, on the sleigh. 
+Time 52 Elf Ryan: Selected Toy whistle, Girl
+Time 52 Elf Ryan: Wrapped Toy whistle, in Pink wrapping paper.
+Time 52 Elf Ryan: Placed Toy whistle, on the sleigh. 
+Time 55 Elf Ryan: Selected Toy dinosaur, Girl
+Time 56 Elf Ryan: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 56 Elf Ryan: Placed Toy dinosaur, on the sleigh. 
+Time 59 Elf Ryan: Selected Toy bracelet, Boy
+Time 59 Elf Ryan: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 59 Elf Ryan: Placed Toy bracelet, on the sleigh. 
+Time 63 Elf Ryan: Selected Toy whistle, Boy
+Time 63 Elf Ryan: Wrapped Toy whistle, in Blue wrapping paper.
+Time 63 Elf Ryan: Placed Toy whistle, on the sleigh. 
+Time 68 Elf Ryan: Selected Toy train, Girl
+Time 69 Elf Ryan: Wrapped Toy train, in Pink wrapping paper.
+Time 69 Elf Ryan: Placed Toy train, on the sleigh. 
+Time 71 Elf Ryan: Selected Toy doll, Boy
+Time 71 Elf Ryan: Wrapped Toy doll, in Blue wrapping paper.
+Time 71 Elf Ryan: Placed Toy doll, on the sleigh. 
+Time 74 Elf Ryan: Selected Toy doll, Boy
+Time 74 Elf Ryan: Wrapped Toy doll, in Blue wrapping paper.
+Time 74 Elf Ryan: Placed Toy doll, on the sleigh. 
+Time 76 Elf Ryan: Selected Toy train, Boy
+Time 77 Elf Ryan: Wrapped Toy train, in Blue wrapping paper.
+Time 77 Elf Ryan: Placed Toy train, on the sleigh. 
+Time 80 Elf Ryan: Selected Toy whistle, Boy
+Time 80 Elf Ryan: Wrapped Toy whistle, in Blue wrapping paper.
+Time 80 Elf Ryan: Placed Toy whistle, on the sleigh. 
+Time 84 Elf Ryan: Selected Toy dinosaur, Girl
+Time 84 Elf Ryan: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 84 Elf Ryan: Placed Toy dinosaur, on the sleigh. 
+Time 87 Elf Ryan: Selected Toy fake tattoo, Boy
+Time 88 Elf Ryan: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 88 Elf Ryan: Placed Toy fake tattoo, on the sleigh. 
+Time 91 Elf Ryan: Selected Toy dinosaur, Boy
+Time 91 Elf Ryan: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 91 Elf Ryan: Placed Toy dinosaur, on the sleigh. 
+Time 96 Elf Ryan: Selected Toy doll, Girl
+Time 96 Elf Ryan: Wrapped Toy doll, in Pink wrapping paper.
+Time 96 Elf Ryan: Placed Toy doll, on the sleigh. 
+Time 99 Elf Ryan: Selected Toy train, Boy
+Time 100 Elf Ryan: Wrapped Toy train, in Blue wrapping paper.
+Time 100 Elf Ryan: Placed Toy train, on the sleigh. 
+Time 105 Elf Ryan: Selected Toy doll, Boy
+Time 105 Elf Ryan: Wrapped Toy doll, in Blue wrapping paper.
+Time 105 Elf Ryan: Placed Toy doll, on the sleigh. 
+Time 110 Elf Ryan: Selected Toy bracelet, Boy
+Time 110 Elf Ryan: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 110 Elf Ryan: Placed Toy bracelet, on the sleigh. 
+Time 112 Elf Ryan: Selected Toy whistle, Boy
+Time 113 Elf Ryan: Wrapped Toy whistle, in Blue wrapping paper.
+Time 113 Elf Ryan: Placed Toy whistle, on the sleigh. 
+Time 119 Elf Ryan: Selected Toy whistle, Boy
+Time 119 Elf Ryan: Wrapped Toy whistle, in Blue wrapping paper.
+Time 119 Elf Ryan: Placed Toy whistle, on the sleigh. 
+Time 122 Elf Ryan: Selected Toy doll, Boy
+Time 123 Elf Ryan: Wrapped Toy doll, in Blue wrapping paper.
+Time 123 Elf Ryan: Placed Toy doll, on the sleigh. 
+Time 126 Elf Ryan: Selected Toy fake tattoo, Boy
+Time 126 Elf Ryan: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 126 Elf Ryan: Placed Toy fake tattoo, on the sleigh. 
+Time 130 Elf Ryan: Selected Toy bracelet, Girl
+Time 130 Elf Ryan: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 130 Elf Ryan: Placed Toy bracelet, on the sleigh. 
+Time 132 Elf Ryan: Selected Toy train, Boy
+Time 133 Elf Ryan: Wrapped Toy train, in Blue wrapping paper.
+Time 133 Elf Ryan: Placed Toy train, on the sleigh. 
+Time 136 Elf Ryan: Selected Toy fake tattoo, Boy
+Time 136 Elf Ryan: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 136 Elf Ryan: Placed Toy fake tattoo, on the sleigh. 
+Time 138 Elf Ryan: Selected Toy doll, Boy
+Time 139 Elf Ryan: Wrapped Toy doll, in Blue wrapping paper.
+Time 139 Elf Ryan: Placed Toy doll, on the sleigh. 
+Time 142 Elf Ryan: Selected Toy train, Boy
+Time 143 Elf Ryan: Wrapped Toy train, in Blue wrapping paper.
+Time 143 Elf Ryan: Placed Toy train, on the sleigh. 
+Time 144 Elf Ryan: Selected Toy bracelet, Boy
+Time 145 Elf Ryan: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 145 Elf Ryan: Placed Toy bracelet, on the sleigh. 
+Time 148 Elf Ryan: Selected Toy fake tattoo, Girl
+Time 148 Elf Ryan: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 148 Elf Ryan: Placed Toy fake tattoo, on the sleigh. 
+Time 149 Elf Ryan: Selected Toy bracelet, Girl
+Time 150 Elf Ryan: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 150 Elf Ryan: Placed Toy bracelet, on the sleigh. 
+Time 151 Elf Ryan: Selected Toy dinosaur, Girl
+Time 151 Elf Ryan: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 151 Elf Ryan: Placed Toy dinosaur, on the sleigh. 
+Time 156 Elf Ryan: Selected Toy fake tattoo, Boy
+Time 157 Elf Ryan: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 157 Elf Ryan: Placed Toy fake tattoo, on the sleigh. 
+Time 163 Elf Ryan: Selected Toy bracelet, Girl
+Time 163 Elf Ryan: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 163 Elf Ryan: Placed Toy bracelet, on the sleigh. 
+Time 168 Elf Ryan: Selected Toy train, Girl
+Time 168 Elf Ryan: Wrapped Toy train, in Pink wrapping paper.
+Time 168 Elf Ryan: Placed Toy train, on the sleigh. 
+Time 174 Elf Ryan: Selected Toy whistle, Boy
+Time 174 Elf Ryan: Wrapped Toy whistle, in Blue wrapping paper.
+Time 174 Elf Ryan: Placed Toy whistle, on the sleigh. 
+Time 180 Elf Ryan: Selected Toy dinosaur, Boy
+Time 181 Elf Ryan: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 181 Elf Ryan: Placed Toy dinosaur, on the sleigh. 
+Time 186 Elf Ryan: Selected Toy dinosaur, Boy
+Time 186 Elf Ryan: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 186 Elf Ryan: Placed Toy dinosaur, on the sleigh. 
+Time 190 Elf Ryan: Selected Toy whistle, Boy
+Time 190 Elf Ryan: Wrapped Toy whistle, in Blue wrapping paper.
+Time 190 Elf Ryan: Placed Toy whistle, on the sleigh. 
+Time 191 Elf Ryan: Selected Toy fake tattoo, Boy
+Time 191 Elf Ryan: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 191 Elf Ryan: Placed Toy fake tattoo, on the sleigh. 
+Time 197 Elf Ryan: Selected Toy bracelet, Boy
+Time 198 Elf Ryan: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 198 Elf Ryan: Placed Toy bracelet, on the sleigh. 
+Time 202 Elf Ryan: Selected Toy doll, Boy
+Time 203 Elf Ryan: Wrapped Toy doll, in Blue wrapping paper.
+Time 203 Elf Ryan: Placed Toy doll, on the sleigh. 
+Time 203 Elf Ryan: Selected Toy train, Girl
+Time 203 Elf Ryan: Wrapped Toy train, in Pink wrapping paper.
+Time 203 Elf Ryan: Placed Toy train, on the sleigh. 
+Time 206 Elf Ryan: Selected Toy whistle, Boy
+Time 206 Elf Ryan: Wrapped Toy whistle, in Blue wrapping paper.
+Time 206 Elf Ryan: Placed Toy whistle, on the sleigh. 
+Time 210 Elf Ryan: Selected Toy whistle, Boy
+Time 211 Elf Ryan: Wrapped Toy whistle, in Blue wrapping paper.
+Time 211 Elf Ryan: Placed Toy whistle, on the sleigh. 
+Time 213 Elf Ryan: Selected Toy doll, Girl
+Time 214 Elf Ryan: Wrapped Toy doll, in Pink wrapping paper.
+Time 214 Elf Ryan: Placed Toy doll, on the sleigh. 
+Time 215 Elf Ryan: Selected Toy whistle, Boy
+Time 215 Elf Ryan: Wrapped Toy whistle, in Blue wrapping paper.
+Time 215 Elf Ryan: Placed Toy whistle, on the sleigh. 
+Time 219 Elf Ryan: Selected Toy fake tattoo, Girl
+Time 220 Elf Ryan: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 220 Elf Ryan: Placed Toy fake tattoo, on the sleigh. 
+Time 223 Elf Ryan: Selected Toy fake tattoo, Boy
+Time 224 Elf Ryan: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 224 Elf Ryan: Placed Toy fake tattoo, on the sleigh. 
+Time 225 Elf Ryan: Selected Toy dinosaur, Boy
+Time 225 Elf Ryan: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 225 Elf Ryan: Placed Toy dinosaur, on the sleigh. 
+Time 229 Elf Ryan: Selected Toy doll, Boy
+Time 229 Elf Ryan: Wrapped Toy doll, in Blue wrapping paper.
+Time 229 Elf Ryan: Placed Toy doll, on the sleigh. 
+Time 232 Elf Ryan: Selected Toy fake tattoo, Boy
+Time 233 Elf Ryan: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 233 Elf Ryan: Placed Toy fake tattoo, on the sleigh. 
+Time 236 Elf Ryan: Selected Toy doll, Girl
+Time 236 Elf Ryan: Wrapped Toy doll, in Pink wrapping paper.
+Time 236 Elf Ryan: Placed Toy doll, on the sleigh. 
+Time 238 Elf Ryan: Selected Toy dinosaur, Boy
+Time 239 Elf Ryan: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 239 Elf Ryan: Placed Toy dinosaur, on the sleigh. 
+Time 244 Elf Ryan: Selected Toy doll, Girl
+Time 245 Elf Ryan: Wrapped Toy doll, in Pink wrapping paper.
+Time 245 Elf Ryan: Placed Toy doll, on the sleigh. 
+Time 249 Elf Ryan: Selected Toy fake tattoo, Boy
+Time 249 Elf Ryan: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 249 Elf Ryan: Placed Toy fake tattoo, on the sleigh. 
+Time 252 Elf Ryan: Selected Toy dinosaur, Girl
+Time 252 Elf Ryan: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 252 Elf Ryan: Placed Toy dinosaur, on the sleigh. 
+Time 256 Elf Ryan: Selected Toy fake tattoo, Boy
+Time 256 Elf Ryan: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 256 Elf Ryan: Placed Toy fake tattoo, on the sleigh. 
+Time 260 Elf Ryan: Selected Toy fake tattoo, Boy
+Time 261 Elf Ryan: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 261 Elf Ryan: Placed Toy fake tattoo, on the sleigh. 
+Time 265 Elf Ryan: Selected Toy bracelet, Girl
+Time 265 Elf Ryan: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 265 Elf Ryan: Placed Toy bracelet, on the sleigh. 
+Time 268 Elf Ryan: Selected Toy doll, Girl
+Time 268 Elf Ryan: Wrapped Toy doll, in Pink wrapping paper.
+Time 268 Elf Ryan: Placed Toy doll, on the sleigh. 
+Time 272 Elf Ryan: Selected Toy train, Girl
+Time 272 Elf Ryan: Wrapped Toy train, in Pink wrapping paper.
+Time 272 Elf Ryan: Placed Toy train, on the sleigh. 
+Time 278 Elf Ryan: Selected Toy dinosaur, Girl
+Time 278 Elf Ryan: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 278 Elf Ryan: Placed Toy dinosaur, on the sleigh. 
+Time 282 Elf Ryan: Selected Toy whistle, Boy
+Time 282 Elf Ryan: Wrapped Toy whistle, in Blue wrapping paper.
+Time 282 Elf Ryan: Placed Toy whistle, on the sleigh. 
+Time 285 Elf Ryan: Selected Toy train, Boy
+Time 285 Elf Ryan: Wrapped Toy train, in Blue wrapping paper.
+Time 285 Elf Ryan: Placed Toy train, on the sleigh. 
+Time 289 Elf Ryan: Selected Toy bracelet, Boy
+Time 289 Elf Ryan: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 289 Elf Ryan: Placed Toy bracelet, on the sleigh. 
+Time 294 Elf Ryan: Selected Toy bracelet, Boy
+Time 295 Elf Ryan: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 295 Elf Ryan: Placed Toy bracelet, on the sleigh. 
+Time 300 Elf Ryan: Selected Toy dinosaur, Girl
+Time 300 Elf Ryan: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 300 Elf Ryan: Placed Toy dinosaur, on the sleigh. 
+Time 300 Elf Ryan: Selected Toy dinosaur, Boy
+Time 300 Elf Ryan: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 300 Elf Ryan: Placed Toy dinosaur, on the sleigh. 
+Time 301 Elf Ryan: Selected Toy fake tattoo, Boy
+Time 302 Elf Ryan: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 302 Elf Ryan: Placed Toy fake tattoo, on the sleigh. 
+Time 306 Elf Ryan: Selected Toy bracelet, Girl
+Time 307 Elf Ryan: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 307 Elf Ryan: Placed Toy bracelet, on the sleigh. 
+Time 312 Elf Ryan: Selected Toy bracelet, Girl
+Time 312 Elf Ryan: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 312 Elf Ryan: Placed Toy bracelet, on the sleigh. 
+Time 316 Elf Ryan: Selected Toy whistle, Girl
+Time 316 Elf Ryan: Wrapped Toy whistle, in Pink wrapping paper.
+Time 316 Elf Ryan: Placed Toy whistle, on the sleigh. 
+Time 320 Elf Ryan: Selected Toy whistle, Boy
+Time 321 Elf Ryan: Wrapped Toy whistle, in Blue wrapping paper.
+Time 321 Elf Ryan: Placed Toy whistle, on the sleigh. 
+Time 322 Elf Ryan: Selected Toy dinosaur, Girl
+Time 322 Elf Ryan: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 323 Elf Ryan: Placed Toy dinosaur, on the sleigh. 
+Time 327 Elf Ryan: Selected Toy doll, Boy
+Time 327 Elf Ryan: Wrapped Toy doll, in Blue wrapping paper.
+Time 327 Elf Ryan: Placed Toy doll, on the sleigh. 
+Time 332 Elf Ryan: Selected Toy doll, Boy
+Time 332 Elf Ryan: Wrapped Toy doll, in Blue wrapping paper.
+Time 333 Elf Ryan: Placed Toy doll, on the sleigh. 
+Time 334 Elf Ryan: Selected Toy doll, Boy
+Time 334 Elf Ryan: Wrapped Toy doll, in Blue wrapping paper.
+Time 334 Elf Ryan: Placed Toy doll, on the sleigh. 
+Time 339 Elf Ryan: Selected Toy whistle, Boy
+Time 339 Elf Ryan: Wrapped Toy whistle, in Blue wrapping paper.
+Time 339 Elf Ryan: Placed Toy whistle, on the sleigh. 
+Time 340 Elf Ryan: Selected Toy train, Girl
+Time 341 Elf Ryan: Wrapped Toy train, in Pink wrapping paper.
+Time 341 Elf Ryan: Placed Toy train, on the sleigh. 
+Time 346 Elf Ryan: Selected Toy bracelet, Girl
+Time 346 Elf Ryan: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 346 Elf Ryan: Placed Toy bracelet, on the sleigh. 
+Time 348 Elf Ryan: Selected Toy fake tattoo, Boy
+Time 349 Elf Ryan: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 349 Elf Ryan: Placed Toy fake tattoo, on the sleigh. 
+Time 352 Elf Ryan: Selected Toy bracelet, Boy
+Time 353 Elf Ryan: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 353 Elf Ryan: Placed Toy bracelet, on the sleigh. 
+Time 355 Elf Ryan: Selected Toy bracelet, Boy
+Time 355 Elf Ryan: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 355 Elf Ryan: Placed Toy bracelet, on the sleigh. 
+Time 357 Elf Ryan: Selected Toy whistle, Boy
+Time 358 Elf Ryan: Wrapped Toy whistle, in Blue wrapping paper.
+Time 358 Elf Ryan: Placed Toy whistle, on the sleigh. 
+Time 362 Elf Ryan: Selected Toy train, Girl
+Time 363 Elf Ryan: Wrapped Toy train, in Pink wrapping paper.
+Time 363 Elf Ryan: Placed Toy train, on the sleigh. 
+Time 366 Elf Ryan: Selected Toy doll, Girl
+Time 366 Elf Ryan: Wrapped Toy doll, in Pink wrapping paper.
+Time 366 Elf Ryan: Placed Toy doll, on the sleigh. 
+Time 371 Elf Ryan: Selected Toy whistle, Girl
+Time 372 Elf Ryan: Wrapped Toy whistle, in Pink wrapping paper.
+Time 372 Elf Ryan: Placed Toy whistle, on the sleigh. 
+Time 375 Elf Ryan: Selected Toy whistle, Girl
+Time 375 Elf Ryan: Wrapped Toy whistle, in Pink wrapping paper.
+Time 375 Elf Ryan: Placed Toy whistle, on the sleigh. 
+Time 376 Elf Ryan: Selected Toy train, Girl
+Time 376 Elf Ryan: Wrapped Toy train, in Pink wrapping paper.
+Time 376 Elf Ryan: Placed Toy train, on the sleigh. 
+Time 380 Elf Ryan: Selected Toy train, Girl
+Time 381 Elf Ryan: Wrapped Toy train, in Pink wrapping paper.
+Time 381 Elf Ryan: Placed Toy train, on the sleigh. 
+Time 383 Elf Ryan: Selected Toy bracelet, Girl
+Time 383 Elf Ryan: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 383 Elf Ryan: Placed Toy bracelet, on the sleigh. 
+Time 386 Elf Ryan: Selected Toy train, Boy
+Time 386 Elf Ryan: Wrapped Toy train, in Blue wrapping paper.
+Time 386 Elf Ryan: Placed Toy train, on the sleigh. 
+Time 389 Elf Ryan: Selected Toy dinosaur, Boy
+Time 390 Elf Ryan: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 390 Elf Ryan: Placed Toy dinosaur, on the sleigh. 
+Time 392 Elf Ryan: Selected Toy bracelet, Girl
+Time 392 Elf Ryan: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 392 Elf Ryan: Placed Toy bracelet, on the sleigh. 
+Time 396 Elf Ryan: Selected Toy dinosaur, Boy
+Time 397 Elf Ryan: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 397 Elf Ryan: Placed Toy dinosaur, on the sleigh. 
+Time 400 Elf Ryan: Selected Toy dinosaur, Girl
+Time 400 Elf Ryan: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 400 Elf Ryan: Placed Toy dinosaur, on the sleigh. 
+Time 402 Elf Ryan: Selected Toy train, Boy
+Time 402 Elf Ryan: Wrapped Toy train, in Blue wrapping paper.
+Time 402 Elf Ryan: Placed Toy train, on the sleigh. 
+Time 407 Elf Ryan: Selected Toy fake tattoo, Boy
+Time 407 Elf Ryan: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 407 Elf Ryan: Placed Toy fake tattoo, on the sleigh. 
+Time 408 Elf Ryan: Selected Toy bracelet, Girl
+Time 408 Elf Ryan: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 408 Elf Ryan: Placed Toy bracelet, on the sleigh. 
+Time 415 Elf Ryan: Selected Toy fake tattoo, Girl
+Time 415 Elf Ryan: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 415 Elf Ryan: Placed Toy fake tattoo, on the sleigh. 
+Time 417 Elf Ryan: Selected Toy doll, Boy
+Time 417 Elf Ryan: Wrapped Toy doll, in Blue wrapping paper.
+Time 417 Elf Ryan: Placed Toy doll, on the sleigh. 
+Time 421 Elf Ryan: Selected Toy bracelet, Girl
+Time 422 Elf Ryan: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 422 Elf Ryan: Placed Toy bracelet, on the sleigh. 
+Time 426 Elf Ryan: Selected Toy train, Girl
+Time 426 Elf Ryan: Wrapped Toy train, in Pink wrapping paper.
+Time 426 Elf Ryan: Placed Toy train, on the sleigh. 
+Time 430 Elf Ryan: Selected Toy fake tattoo, Boy
+Time 430 Elf Ryan: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 430 Elf Ryan: Placed Toy fake tattoo, on the sleigh. 
+Time 433 Elf Ryan: Selected Toy fake tattoo, Boy
+Time 433 Elf Ryan: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 433 Elf Ryan: Placed Toy fake tattoo, on the sleigh. 
+Time 436 Elf Ryan: Selected Toy dinosaur, Boy
+Time 437 Elf Ryan: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 437 Elf Ryan: Placed Toy dinosaur, on the sleigh. 
+Time 440 Elf Ryan: Selected Toy fake tattoo, Girl
+Time 440 Elf Ryan: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 440 Elf Ryan: Placed Toy fake tattoo, on the sleigh. 
+Time 445 Elf Ryan: Selected Toy bracelet, Girl
+Time 445 Elf Ryan: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 445 Elf Ryan: Placed Toy bracelet, on the sleigh. 
+Time 448 Elf Ryan: Selected Toy whistle, Boy
+Time 449 Elf Ryan: Wrapped Toy whistle, in Blue wrapping paper.
+Time 449 Elf Ryan: Placed Toy whistle, on the sleigh. 
+Time 450 Elf Ryan: Selected Toy train, Boy
+Time 450 Elf Ryan: Wrapped Toy train, in Blue wrapping paper.
+Time 450 Elf Ryan: Placed Toy train, on the sleigh. 
+Time 453 Elf Ryan: Selected Toy bracelet, Boy
+Time 453 Elf Ryan: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 453 Elf Ryan: Placed Toy bracelet, on the sleigh. 
+Time 457 Elf Ryan: Selected Toy whistle, Girl
+Time 458 Elf Ryan: Wrapped Toy whistle, in Pink wrapping paper.
+Time 458 Elf Ryan: Placed Toy whistle, on the sleigh. 
+Time 461 Elf Ryan: Selected Toy fake tattoo, Boy
+Time 461 Elf Ryan: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 461 Elf Ryan: Placed Toy fake tattoo, on the sleigh. 
+Time 463 Elf Ryan: Selected Toy whistle, Boy
+Time 464 Elf Ryan: Wrapped Toy whistle, in Blue wrapping paper.
+Time 464 Elf Ryan: Placed Toy whistle, on the sleigh. 
+Time 466 Elf Ryan: Selected Toy doll, Girl
+Time 466 Elf Ryan: Wrapped Toy doll, in Pink wrapping paper.
+Time 466 Elf Ryan: Placed Toy doll, on the sleigh. 
+Time 472 Elf Ryan: Selected Toy bracelet, Boy
+Time 473 Elf Ryan: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 473 Elf Ryan: Placed Toy bracelet, on the sleigh. 
+Time 476 Elf Ryan: Selected Toy whistle, Girl
+Time 477 Elf Ryan: Wrapped Toy whistle, in Pink wrapping paper.
+Time 477 Elf Ryan: Placed Toy whistle, on the sleigh. 

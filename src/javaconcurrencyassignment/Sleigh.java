@@ -120,5 +120,9 @@ public class Sleigh {
       
       return empty;
   }
+  
+  public int getNumberPresents() {
+      return numPresents;
+  }
     
 }
