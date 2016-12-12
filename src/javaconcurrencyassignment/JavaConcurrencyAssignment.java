@@ -25,8 +25,8 @@ public class JavaConcurrencyAssignment {
         Elf e1 = new Elf("Ryan", sleigh, clock);
         Elf e2 = new Elf("Matt", sleigh, clock);
         Elf e3 = new Elf("Beradin", sleigh, clock);
-        //Elf e4 = new Elf("Liam", sleigh);
-        //Elf e5 = new Elf("Jack", sleigh);
+        Elf e4 = new Elf("Liam", sleigh,clock);
+        Elf e5 = new Elf("Jack", sleigh, clock);
          
         Santa s1 = new Santa("Santa Nick", sleigh, clock);
         Santa s2 = new Santa("Santa Paul", sleigh, clock);
@@ -37,8 +37,8 @@ public class JavaConcurrencyAssignment {
         e1.start();
         e2.start();
         e3.start();
-        //e4.start();
-        //e5.start();
+        e4.start();
+        e5.start();
          
         s1.start();
         s2.start();
@@ -46,21 +46,37 @@ public class JavaConcurrencyAssignment {
         
          
         try {
-            
             clock.join();
+            
             
             e1.join();
             e2.join();
             e3.join();
-            //e4.join();
-            //e5.join();
+            e4.join();
+            e5.join();
+            
+           
+        } catch (InterruptedException ex) {
+          
+        }
+        
+        System.out.println("********SANTA******");
+        
+         try {
+            
             
             s1.join();
             s2.join();
             s3.join();
+            
+            
+           
         } catch (InterruptedException ex) {
-
+            
         }
+        
+        
+         
        
          
         System.out.println("Finished");

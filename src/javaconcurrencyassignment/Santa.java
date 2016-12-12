@@ -38,17 +38,17 @@ public class Santa extends Thread {
         while(!clock.dayOver()) {
             
             
-            try {
-                sleep((int) (randInt() * base_wait_time));
+         try {
+               sleep((int) (Math.random() * 10));
             } catch (InterruptedException ex) {
-                
-            }
+               
+          }
             
-            System.out.println(clock.getTime());
+            
 
             getPresents();
             
-            givePresentsToChildren();
+            //givePresentsToChildren();
             
         
         }

@@ -9,12 +9,11 @@ package javaconcurrencyassignment;
  *
  * @author ryanmoss
  */
-public class Clock extends Thread {
-    
-     private final int dayTime = 60 * 8;
+public class Clock extends Thread{
+    private final int dayTime = 60 * 8;
      private boolean dayFinished = false;
      private int timer = 0;
-     private final int tick = 10;
+     private final int tick = 1;
     
     public void Clock() {
         
@@ -36,6 +35,7 @@ public class Clock extends Thread {
                 Thread.sleep(tick);
                 
             } catch (InterruptedException ex) {
+                
             }
             
               

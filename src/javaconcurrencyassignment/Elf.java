@@ -41,13 +41,17 @@ public class Elf extends Thread {
     
     public void run() {
         openFileForWriting();
+        
         while(!clock.dayOver()) {
            
             //Selecting a present for a random amount of time
             try {
                 sleep((int) (Math.random() * 10));
             } catch (InterruptedException ex) {
+                
             }
+            
+            System.out.println(clock.dayOver());
              createPresent(); 
         }
         
