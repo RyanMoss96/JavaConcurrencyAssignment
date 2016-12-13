@@ -17,7 +17,7 @@ public class Sleigh {
     private Semaphore spaces;
     private Semaphore presentsSem;
     
-    private final int maxPresents = 10;
+    private final int maxPresents = 120;
     private Presents[] presents;
     private int numPresents = 0;
     
@@ -70,8 +70,7 @@ public class Sleigh {
        
         
         nextOut++;
-        if (nextOut == presents.length)
-        {
+        if (nextOut == presents.length) {
             nextOut=0;
         }
         

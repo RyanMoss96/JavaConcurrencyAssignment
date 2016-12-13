@@ -15,39 +15,56 @@ public class Sack {
     private Presents[] presents = new Presents[maxPresents];
     private int number_of_presents = 0;
     private int nextIn = 0;
+    private int nextOut = 0;
     
-    public Sack()
-    {
+    public Sack() {
         
     }
     
-    public void AddToy(Presents present)
-    {
-        presents[nextIn] = present;
+    public void addToy(Presents present) {
+        
        
-        nextIn++;
-        if(nextIn == presents.length){
-            nextIn = 0;
-        }
+            presents[nextIn] = present;
+       
+            nextIn++;
+            if(nextIn == presents.length){
+                nextIn = 0;
+            }
         
-        number_of_presents++;
+            number_of_presents++;
     }
     
-    public String GetGender(int i){
+    public String getGender(int i){
         return presents[i].gender;
     }
     
-    public Presents GetPresent(int i)
-    {
-        return presents[i];
-    }
+    public Presents removeToy(String gender) {
+        
+        Presents present;
+        present = presents[nextOut];
+        
+        nextOut++;
+        number_of_presents--;
+        if (nextOut == presents.length) {
+            nextOut=0;
+        }
+        
+        return present;
+    } 
+        
+        
     
-    public int NumberOfPresents() {
+    
+    public int numberOfPresents() {
         return number_of_presents;
     }
     
-    public int MaxPresents() {
+    public int maxPresents() {
         return maxPresents;
+    }
+    
+    public boolean isEmpty() {
+        return number_of_presents == 0;
     }
    
 }

@@ -30,7 +30,7 @@ public class JavaConcurrencyAssignment {
          
         Santa s1 = new Santa("Santa Nick", sleigh, clock);
         Santa s2 = new Santa("Santa Paul", sleigh, clock);
-        Santa s3 = new Santa("Santa John", sleigh, clock);
+        Santa s3 = new Santa("Santa Peter", sleigh, clock);
         
         clock.start();
          
