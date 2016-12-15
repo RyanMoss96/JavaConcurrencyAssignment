@@ -8,7 +8,7 @@ package javaconcurrencyassignment;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Random;
-
+import java.util.concurrent.ThreadLocalRandom;
 /**
  *
  * @author ryanmoss
@@ -19,7 +19,7 @@ public class Santa extends Thread {
     private String department;
     private Sleigh sleigh;
     private int num_presents_given = 0;
-    private float time_at_empty_sleigh = 0;
+    private int time_at_empty_sleigh = 0;
     private final int base_wait_time = 10;
     private String[] genders = {"Boy", "Girl"};
 
@@ -41,37 +41,46 @@ public class Santa extends Thread {
         openFileForWriting();
 
         while (!clock.dayOver()) {
-
-            while (santaSack.numberOfPresents() < santaSack.maxPresents()) {
+            
+            
+            int start = clock.getTime();
+            while (santaSack.isEmpty()) {
                 getPresents();
             }
             
+            time_at_empty_sleigh += clock.getTime() - start;
+
             //Walking back to their department
             try {
-                sleep((int) (Math.random() * 10));
+                sleep(ThreadLocalRandom.current().nextInt(500, 1001));
             } catch (InterruptedException ex) {
 
             }
-            
-            while(!santaSack.isEmpty()) {
+
+            while (!santaSack.isEmpty()) {
                 givePresentsToChildren();
             }
 
-//            
-            
+     if (clock.getTime() % 60 == 0 && clock.getTime() != 480) {
+               reportHourly(clock.getTime());
+            }
 
+           
         }
         closeFileForWriting();
+
+        reportToConsole();
 
     }
 
     private void getPresents() {
+        if (sleigh.getNumberPresents() < 6) {
 
-        Presents item = sleigh.removePresent();
-
-        System.out.println("*************** " + name + " " + " " + item.type + " " + item.gender);
-
-        santaSack.addToy(item);
+        } else {
+            Presents item = sleigh.removePresent();
+            //System.out.println("*************** " + name + " " + " " + item.type + " " + item.gender);
+            santaSack.addToy(item);
+        }
 
     }
 
@@ -79,7 +88,7 @@ public class Santa extends Thread {
 
         //Spend a random amount of time with each child
         try {
-            sleep((int) (Math.random() * 10));
+             sleep(ThreadLocalRandom.current().nextInt(500, 1001));
         } catch (InterruptedException ex) {
 
         }
@@ -87,6 +96,7 @@ public class Santa extends Thread {
         String gender = selectGender();
 
         Presents present = santaSack.removeToy(gender);
+        num_presents_given++;
 
         writeToFile("Time " + clock.getTime() + name + ": Gave Toy " + present.type + ", " + present.gender);
 
@@ -120,5 +130,17 @@ public class Santa extends Thread {
 
     private void closeFileForWriting() {
         writer.close();
+    }
+
+    private void reportToConsole() {
+        System.out.println(name + " has given away " + num_presents_given + " presents.");
+        System.out.println(name + " spent " + time_at_empty_sleigh + "ticks at an empty sleigh");
+    }
+
+    private void reportHourly(int time) {
+        System.out.println("HOURLY REPORT: " + time);
+        System.out.println(name + " has given away " + num_presents_given + " presents.");
+        System.out.println(name + " spent " + time_at_empty_sleigh + "ticks at an empty sleigh");
+        System.out.println();
     }
 }

@@ -14,7 +14,7 @@ import java.util.concurrent.Semaphore;
 public class Sleigh {
     
     private Semaphore mutex = new Semaphore(1);
-    private Semaphore spaces;
+    public Semaphore spaces;
     private Semaphore presentsSem;
     
     private final int maxPresents = 120;
@@ -121,7 +121,22 @@ public class Sleigh {
   }
   
   public int getNumberPresents() {
-      return numPresents;
+     int num = 0;
+      try{
+        mutex.acquire();  
+        
+        num = numPresents;
+      } catch (InterruptedException ex) {
+          ex.printStackTrace();
+      }
+      
+     mutex.release();
+     return num;
+  }
+  
+  public void report() {
+      System.out.println("SLEIGH REPORT");
+       System.out.println("Items left on sleigh: " + numPresents);
   }
     
 }

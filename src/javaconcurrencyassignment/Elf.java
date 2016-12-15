@@ -8,6 +8,7 @@ package javaconcurrencyassignment;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Random;
+import java.util.concurrent.ThreadLocalRandom;
 
 /**
  *
@@ -40,19 +41,23 @@ public class Elf extends Thread {
         openFileForWriting();
 
         while (!clock.dayOver()) {
-
+            //System.out.println(sleigh.spaces);
             //Selecting a present for a random amount of time
             try {
-                sleep((int) (Math.random() * 10));
+                sleep(ThreadLocalRandom.current().nextInt(500, 1001));
             } catch (InterruptedException ex) {
 
             }
 
             createPresent();
+
+            if (clock.getTime() % 60 == 0 && clock.getTime() != 480) {
+                reportHourly(clock.getTime());
+            }
         }
 
         closeFileForWriting();
-
+        reportToConsole();
     }
 
     private void createPresent() {
@@ -61,41 +66,42 @@ public class Elf extends Thread {
 
         time = clock.getTime();
 
-        writeToFile("Time " + time + " Elf " + name + ": Selected Toy " + present.type + ", " + present.gender);
+       
 
         //Random time to simulate wrapping the present
         try {
-            sleep((int) (Math.random() * 10));
+            sleep(ThreadLocalRandom.current().nextInt(500, 1001));
         } catch (InterruptedException ex) {
 
         }
 
         present.active = true;
-        total_presents_wrapped++;
+        
 
         if (present.gender.equals("Boy")) {
             present.colourPaper = "Blue";
         } else {
             present.colourPaper = "Pink";
         }
-        time = clock.getTime();
-        writeToFile("Time " + time + " Elf " + name + ": Wrapped Toy " + present.type + ", in " + present.colourPaper + " wrapping paper.");
-
+        
+int startSleighTime = clock.getTime();
         if (!sleigh.sleighFull()) {
-            int startSleighTime = clock.getTime();
+             writeToFile("Time " + time + " Elf " + name + ": Selected Toy " + present.type + ", " + present.gender);
+            time = clock.getTime();
+        writeToFile("Time " + time + " Elf " + name + ": Wrapped Toy " + present.type + ", in " + present.colourPaper + " wrapping paper.");
+            total_presents_wrapped++;
+            
 
             time = clock.getTime();
             writeToFile("Time " + time + " Elf " + name + ": Placed Toy " + present.type + ", on the sleigh. ");
+            
             sleigh.addPresent(present);
-            int endSleighTime = clock.getTime();
+            
 
-            int difference = endSleighTime - startSleighTime;
-
-            time_at_sleigh += difference;
+            
 
         }
-
-        System.out.println(sleigh.getNumberPresents() + name + " " + " " + present.type + " " + present.gender);
+        time_at_sleigh += clock.getTime() - startSleighTime;
     }
 
     private String selectPresent() {
@@ -131,5 +137,18 @@ public class Elf extends Thread {
 
     private void closeFileForWriting() {
         writer.close();
+    }
+
+    private void reportToConsole() {
+        System.out.println(name + " wrapped and placed " + total_presents_wrapped + " on the sleigh.");
+        System.out.println(name + " spent " + time_at_sleigh + "ticks at the sleigh");
+    }
+
+    private void reportHourly(int time) {
+        
+        System.out.println("HOURLY REPORT: " + time);
+        System.out.println(name + " wrapped and placed " + total_presents_wrapped + " on the sleigh.");
+        System.out.println(name + " spent " + time_at_sleigh + "ticks at the sleigh");
+        System.out.println();
     }
 }
