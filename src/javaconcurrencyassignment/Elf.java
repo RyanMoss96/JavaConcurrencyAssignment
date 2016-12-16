@@ -38,6 +38,8 @@ public class Elf extends Thread {
     }
 
     public void run() {
+
+        System.out.println(name + " started");
         openFileForWriting();
 
         while (!clock.dayOver()) {
@@ -50,6 +52,10 @@ public class Elf extends Thread {
             }
 
             createPresent();
+
+            wrapPresent();
+            
+            addToSleigh();
 
             if (clock.getTime() % 60 == 0 && clock.getTime() != 480) {
                 reportHourly(clock.getTime());
@@ -66,8 +72,11 @@ public class Elf extends Thread {
 
         time = clock.getTime();
 
-       
+        writeToFile("Time " + time + " Elf " + name + ": Selected Toy " + present.type + ", " + present.gender);
 
+    }
+
+    private void wrapPresent() {
         //Random time to simulate wrapping the present
         try {
             sleep(ThreadLocalRandom.current().nextInt(500, 1001));
@@ -76,32 +85,40 @@ public class Elf extends Thread {
         }
 
         present.active = true;
-        
 
         if (present.gender.equals("Boy")) {
             present.colourPaper = "Blue";
         } else {
             present.colourPaper = "Pink";
         }
-        
-int startSleighTime = clock.getTime();
-        if (!sleigh.sleighFull()) {
-             writeToFile("Time " + time + " Elf " + name + ": Selected Toy " + present.type + ", " + present.gender);
-            time = clock.getTime();
+
+        time = clock.getTime();
         writeToFile("Time " + time + " Elf " + name + ": Wrapped Toy " + present.type + ", in " + present.colourPaper + " wrapping paper.");
-            total_presents_wrapped++;
-            
+        total_presents_wrapped++;
+    }
 
-            time = clock.getTime();
-            writeToFile("Time " + time + " Elf " + name + ": Placed Toy " + present.type + ", on the sleigh. ");
-            
-            sleigh.addPresent(present);
-            
+    public void addToSleigh() {
 
-            
+        time = clock.getTime();
+        writeToFile("Time " + time + " Elf " + name + ": Placed Toy " + present.type + ", on the sleigh. ");
 
+        int startSleighTime = 0;
+        int endTime = 0;
+        int timeSpentWaiting = 0;
+
+        boolean fullSleigh = sleigh.sleighFull();
+        if (fullSleigh) {
+            startSleighTime = clock.getTime();
         }
-        time_at_sleigh += clock.getTime() - startSleighTime;
+
+        sleigh.addPresent(present);
+
+        if (fullSleigh) {
+            endTime = clock.getTime();
+            timeSpentWaiting = endTime - startSleighTime;
+
+            time_at_sleigh += timeSpentWaiting;
+        }
     }
 
     private String selectPresent() {
@@ -145,7 +162,7 @@ int startSleighTime = clock.getTime();
     }
 
     private void reportHourly(int time) {
-        
+
         System.out.println("HOURLY REPORT: " + time);
         System.out.println(name + " wrapped and placed " + total_presents_wrapped + " on the sleigh.");
         System.out.println(name + " spent " + time_at_sleigh + "ticks at the sleigh");

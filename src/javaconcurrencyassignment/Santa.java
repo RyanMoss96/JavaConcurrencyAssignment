@@ -20,8 +20,10 @@ public class Santa extends Thread {
     private Sleigh sleigh;
     private int num_presents_given = 0;
     private int time_at_empty_sleigh = 0;
-    private final int base_wait_time = 10;
+    private int walk_time;
     private String[] genders = {"Boy", "Girl"};
+    private String[] departments = {"Clothes", "Perfume", "Outdoors", "Pharmacy", "Sport"};
+    
 
     private Sack santaSack;
     private Clock clock;
@@ -29,20 +31,25 @@ public class Santa extends Thread {
 
     public Santa(String name, Sleigh sleigh, Clock clock) {
         this.name = name;
-        //this.department = department;
         this.sleigh = sleigh;
         this.clock = clock;
-
+        department = departments[randInt(0,5)];
+        
+        walk_time = ThreadLocalRandom.current().nextInt(500, 1001);
+        
         santaSack = new Sack();
+        
+        
+        
     }
 
     public void run() {
-
+        System.out.println(name + " started");
         openFileForWriting();
 
         while (!clock.dayOver()) {
             
-            
+           
             int start = clock.getTime();
             while (santaSack.isEmpty()) {
                 getPresents();
@@ -52,7 +59,7 @@ public class Santa extends Thread {
 
             //Walking back to their department
             try {
-                sleep(ThreadLocalRandom.current().nextInt(500, 1001));
+                sleep(walk_time);
             } catch (InterruptedException ex) {
 
             }

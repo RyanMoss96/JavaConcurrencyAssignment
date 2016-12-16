@@ -18,6 +18,8 @@ public class JavaConcurrencyAssignment {
     public static void main(String[] args) {
         // TODO code application logic here
         
+        System.out.println("RUNNING");
+        
         
         Clock clock = new Clock();
         Sleigh sleigh = new Sleigh();
@@ -50,18 +52,18 @@ public class JavaConcurrencyAssignment {
         e3.start();
         e4.start();
         e5.start();
-        e6.start();
-        e7.start();
-        e8.start();
-        e9.start();
-        e10.start();
-         
+//        e6.start();
+//        e7.start();
+//        e8.start();
+//        e9.start();
+//        e10.start();
+//         
          
         s1.start();
-//        s2.start();
-//        s3.start();
-//        s4.start();
-//        s5.start();
+       s2.start();
+       s3.start();
+        s4.start();
+        s5.start();
 //        s6.start();
 //        s7.start();
 //        s8.start();
@@ -82,16 +84,16 @@ public class JavaConcurrencyAssignment {
             
             e5.join();
             
-            e6.join();
-           
-            e7.join();
-            
-            e8.join();
-            
-            e9.join();
-            
-            e10.join();
-           
+//            e6.join();
+//           
+//            e7.join();
+//            
+//            e8.join();
+//            
+//            e9.join();
+//            
+//            e10.join();
+//           
             
            
         } catch (InterruptedException ex) {
@@ -105,13 +107,13 @@ public class JavaConcurrencyAssignment {
             
             s1.join();
            
-//            s2.join();
+    s2.join();
 //            
-//            s3.join();
-//            
-//            s4.join();
-//           
-//            s5.join();
+           s3.join();
+           
+           s4.join();
+         
+          s5.join();
 //            
 //            s6.join(); 
 //            

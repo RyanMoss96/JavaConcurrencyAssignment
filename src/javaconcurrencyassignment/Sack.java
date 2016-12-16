@@ -52,9 +52,6 @@ public class Sack {
         return present;
     } 
         
-        
-    
-    
     public int numberOfPresents() {
         return number_of_presents;
     }
