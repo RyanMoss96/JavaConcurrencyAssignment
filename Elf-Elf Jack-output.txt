@@ -1,0 +1,1407 @@
+Time 1 Elf Elf Jack: Selected Toy whistle, Boy
+Time 2 Elf Elf Jack: Wrapped Toy whistle, in Blue wrapping paper.
+Time 2 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 2 Elf Elf Jack: Selected Toy whistle, Boy
+Time 3 Elf Elf Jack: Wrapped Toy whistle, in Blue wrapping paper.
+Time 3 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 3 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 4 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 4 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 4 Elf Elf Jack: Selected Toy doll, Girl
+Time 4 Elf Elf Jack: Wrapped Toy doll, in Pink wrapping paper.
+Time 4 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 4 Elf Elf Jack: Selected Toy fake tattoo, Boy
+Time 5 Elf Elf Jack: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 5 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 5 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 6 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 6 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 6 Elf Elf Jack: Selected Toy train, Boy
+Time 7 Elf Elf Jack: Wrapped Toy train, in Blue wrapping paper.
+Time 7 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 7 Elf Elf Jack: Selected Toy whistle, Girl
+Time 8 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 8 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 9 Elf Elf Jack: Selected Toy fake tattoo, Girl
+Time 9 Elf Elf Jack: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 9 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 10 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 10 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 10 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 11 Elf Elf Jack: Selected Toy train, Girl
+Time 11 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 11 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 11 Elf Elf Jack: Selected Toy whistle, Girl
+Time 11 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 11 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 12 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 12 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 12 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 13 Elf Elf Jack: Selected Toy train, Boy
+Time 14 Elf Elf Jack: Wrapped Toy train, in Blue wrapping paper.
+Time 14 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 14 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 15 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 15 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 16 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 17 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 17 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 18 Elf Elf Jack: Selected Toy fake tattoo, Girl
+Time 18 Elf Elf Jack: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 18 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 18 Elf Elf Jack: Selected Toy whistle, Boy
+Time 19 Elf Elf Jack: Wrapped Toy whistle, in Blue wrapping paper.
+Time 19 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 19 Elf Elf Jack: Selected Toy fake tattoo, Boy
+Time 19 Elf Elf Jack: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 19 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 20 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 20 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 20 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 20 Elf Elf Jack: Selected Toy train, Girl
+Time 20 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 20 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 21 Elf Elf Jack: Selected Toy fake tattoo, Girl
+Time 21 Elf Elf Jack: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 21 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 21 Elf Elf Jack: Selected Toy whistle, Boy
+Time 22 Elf Elf Jack: Wrapped Toy whistle, in Blue wrapping paper.
+Time 22 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 23 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 23 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 23 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 23 Elf Elf Jack: Selected Toy doll, Boy
+Time 24 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 24 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 24 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 25 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 25 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 26 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 26 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 26 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 27 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 27 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 27 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 28 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 28 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 28 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 29 Elf Elf Jack: Selected Toy train, Boy
+Time 29 Elf Elf Jack: Wrapped Toy train, in Blue wrapping paper.
+Time 29 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 29 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 30 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 30 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 31 Elf Elf Jack: Selected Toy fake tattoo, Girl
+Time 31 Elf Elf Jack: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 31 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 32 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 32 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 32 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 32 Elf Elf Jack: Selected Toy doll, Girl
+Time 32 Elf Elf Jack: Wrapped Toy doll, in Pink wrapping paper.
+Time 32 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 33 Elf Elf Jack: Selected Toy fake tattoo, Boy
+Time 34 Elf Elf Jack: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 34 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 34 Elf Elf Jack: Selected Toy fake tattoo, Girl
+Time 34 Elf Elf Jack: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 34 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 35 Elf Elf Jack: Selected Toy doll, Boy
+Time 35 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 35 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 36 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 36 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 36 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 37 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 38 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 38 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 38 Elf Elf Jack: Selected Toy train, Boy
+Time 38 Elf Elf Jack: Wrapped Toy train, in Blue wrapping paper.
+Time 38 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 39 Elf Elf Jack: Selected Toy train, Girl
+Time 40 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 40 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 40 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 41 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 41 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 42 Elf Elf Jack: Selected Toy fake tattoo, Girl
+Time 43 Elf Elf Jack: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 43 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 43 Elf Elf Jack: Selected Toy whistle, Girl
+Time 43 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 43 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 44 Elf Elf Jack: Selected Toy whistle, Girl
+Time 44 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 44 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 45 Elf Elf Jack: Selected Toy train, Girl
+Time 46 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 46 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 46 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 47 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 47 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 47 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 48 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 48 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 48 Elf Elf Jack: Selected Toy doll, Boy
+Time 49 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 49 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 49 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 50 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 50 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 51 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 52 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 52 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 53 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 54 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 54 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 55 Elf Elf Jack: Selected Toy doll, Boy
+Time 55 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 55 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 56 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 56 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 56 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 57 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 58 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 58 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 58 Elf Elf Jack: Selected Toy doll, Girl
+Time 59 Elf Elf Jack: Wrapped Toy doll, in Pink wrapping paper.
+Time 59 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 59 Elf Elf Jack: Selected Toy train, Boy
+Time 59 Elf Elf Jack: Wrapped Toy train, in Blue wrapping paper.
+Time 59 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 60 Elf Elf Jack: Selected Toy whistle, Girl
+Time 61 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 61 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 61 Elf Elf Jack: Selected Toy whistle, Girl
+Time 62 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 62 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 63 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 64 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 64 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 64 Elf Elf Jack: Selected Toy train, Boy
+Time 65 Elf Elf Jack: Wrapped Toy train, in Blue wrapping paper.
+Time 65 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 66 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 67 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 67 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 68 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 68 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 68 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 69 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 69 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 69 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 70 Elf Elf Jack: Selected Toy whistle, Girl
+Time 70 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 70 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 70 Elf Elf Jack: Selected Toy train, Girl
+Time 71 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 71 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 72 Elf Elf Jack: Selected Toy whistle, Girl
+Time 72 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 72 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 73 Elf Elf Jack: Selected Toy doll, Boy
+Time 73 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 73 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 74 Elf Elf Jack: Selected Toy doll, Boy
+Time 75 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 75 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 76 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 77 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 77 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 78 Elf Elf Jack: Selected Toy whistle, Girl
+Time 78 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 78 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 79 Elf Elf Jack: Selected Toy train, Boy
+Time 79 Elf Elf Jack: Wrapped Toy train, in Blue wrapping paper.
+Time 79 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 80 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 81 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 81 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 81 Elf Elf Jack: Selected Toy whistle, Girl
+Time 82 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 82 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 82 Elf Elf Jack: Selected Toy doll, Girl
+Time 82 Elf Elf Jack: Wrapped Toy doll, in Pink wrapping paper.
+Time 82 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 83 Elf Elf Jack: Selected Toy whistle, Girl
+Time 83 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 83 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 84 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 85 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 85 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 86 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 87 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 87 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 87 Elf Elf Jack: Selected Toy fake tattoo, Boy
+Time 87 Elf Elf Jack: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 87 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 87 Elf Elf Jack: Selected Toy doll, Girl
+Time 87 Elf Elf Jack: Wrapped Toy doll, in Pink wrapping paper.
+Time 87 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 88 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 88 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 88 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 89 Elf Elf Jack: Selected Toy doll, Boy
+Time 90 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 90 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 90 Elf Elf Jack: Selected Toy fake tattoo, Girl
+Time 91 Elf Elf Jack: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 91 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 92 Elf Elf Jack: Selected Toy train, Girl
+Time 93 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 93 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 94 Elf Elf Jack: Selected Toy fake tattoo, Girl
+Time 94 Elf Elf Jack: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 94 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 94 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 94 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 94 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 95 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 96 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 96 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 96 Elf Elf Jack: Selected Toy doll, Boy
+Time 97 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 97 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 97 Elf Elf Jack: Selected Toy train, Boy
+Time 98 Elf Elf Jack: Wrapped Toy train, in Blue wrapping paper.
+Time 98 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 98 Elf Elf Jack: Selected Toy fake tattoo, Girl
+Time 99 Elf Elf Jack: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 99 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 100 Elf Elf Jack: Selected Toy whistle, Girl
+Time 101 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 101 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 101 Elf Elf Jack: Selected Toy doll, Boy
+Time 102 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 102 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 103 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 103 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 103 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 104 Elf Elf Jack: Selected Toy fake tattoo, Boy
+Time 105 Elf Elf Jack: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 105 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 105 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 105 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 105 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 106 Elf Elf Jack: Selected Toy whistle, Boy
+Time 106 Elf Elf Jack: Wrapped Toy whistle, in Blue wrapping paper.
+Time 106 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 107 Elf Elf Jack: Selected Toy train, Girl
+Time 107 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 107 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 107 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 108 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 108 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 109 Elf Elf Jack: Selected Toy whistle, Girl
+Time 110 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 110 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 110 Elf Elf Jack: Selected Toy fake tattoo, Girl
+Time 111 Elf Elf Jack: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 111 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 111 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 112 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 112 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 113 Elf Elf Jack: Selected Toy fake tattoo, Boy
+Time 113 Elf Elf Jack: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 113 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 113 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 114 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 114 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 115 Elf Elf Jack: Selected Toy train, Girl
+Time 115 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 115 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 116 Elf Elf Jack: Selected Toy doll, Girl
+Time 116 Elf Elf Jack: Wrapped Toy doll, in Pink wrapping paper.
+Time 116 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 116 Elf Elf Jack: Selected Toy doll, Boy
+Time 116 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 116 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 117 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 118 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 118 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 119 Elf Elf Jack: Selected Toy whistle, Boy
+Time 119 Elf Elf Jack: Wrapped Toy whistle, in Blue wrapping paper.
+Time 119 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 120 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 121 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 121 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 121 Elf Elf Jack: Selected Toy fake tattoo, Girl
+Time 122 Elf Elf Jack: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 122 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 122 Elf Elf Jack: Selected Toy fake tattoo, Girl
+Time 123 Elf Elf Jack: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 123 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 124 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 124 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 124 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 125 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 126 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 126 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 127 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 128 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 128 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 129 Elf Elf Jack: Selected Toy fake tattoo, Boy
+Time 129 Elf Elf Jack: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 129 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 130 Elf Elf Jack: Selected Toy whistle, Boy
+Time 130 Elf Elf Jack: Wrapped Toy whistle, in Blue wrapping paper.
+Time 130 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 131 Elf Elf Jack: Selected Toy doll, Girl
+Time 132 Elf Elf Jack: Wrapped Toy doll, in Pink wrapping paper.
+Time 132 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 132 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 132 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 132 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 133 Elf Elf Jack: Selected Toy whistle, Boy
+Time 133 Elf Elf Jack: Wrapped Toy whistle, in Blue wrapping paper.
+Time 133 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 133 Elf Elf Jack: Selected Toy whistle, Girl
+Time 134 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 134 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 135 Elf Elf Jack: Selected Toy train, Boy
+Time 135 Elf Elf Jack: Wrapped Toy train, in Blue wrapping paper.
+Time 135 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 136 Elf Elf Jack: Selected Toy doll, Boy
+Time 137 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 137 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 137 Elf Elf Jack: Selected Toy train, Girl
+Time 138 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 138 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 139 Elf Elf Jack: Selected Toy fake tattoo, Girl
+Time 140 Elf Elf Jack: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 140 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 140 Elf Elf Jack: Selected Toy train, Girl
+Time 140 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 140 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 141 Elf Elf Jack: Selected Toy doll, Boy
+Time 141 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 141 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 141 Elf Elf Jack: Selected Toy train, Boy
+Time 142 Elf Elf Jack: Wrapped Toy train, in Blue wrapping paper.
+Time 142 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 143 Elf Elf Jack: Selected Toy whistle, Girl
+Time 143 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 143 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 143 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 143 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 143 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 144 Elf Elf Jack: Selected Toy train, Girl
+Time 144 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 144 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 145 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 145 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 145 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 146 Elf Elf Jack: Selected Toy doll, Girl
+Time 147 Elf Elf Jack: Wrapped Toy doll, in Pink wrapping paper.
+Time 147 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 147 Elf Elf Jack: Selected Toy whistle, Boy
+Time 147 Elf Elf Jack: Wrapped Toy whistle, in Blue wrapping paper.
+Time 147 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 148 Elf Elf Jack: Selected Toy whistle, Girl
+Time 148 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 148 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 148 Elf Elf Jack: Selected Toy train, Girl
+Time 149 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 149 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 149 Elf Elf Jack: Selected Toy fake tattoo, Girl
+Time 149 Elf Elf Jack: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 149 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 150 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 150 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 150 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 151 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 151 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 151 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 152 Elf Elf Jack: Selected Toy train, Girl
+Time 152 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 152 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 152 Elf Elf Jack: Selected Toy whistle, Girl
+Time 153 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 153 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 153 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 154 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 154 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 155 Elf Elf Jack: Selected Toy fake tattoo, Girl
+Time 155 Elf Elf Jack: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 155 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 156 Elf Elf Jack: Selected Toy doll, Girl
+Time 157 Elf Elf Jack: Wrapped Toy doll, in Pink wrapping paper.
+Time 157 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 157 Elf Elf Jack: Selected Toy whistle, Girl
+Time 158 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 158 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 158 Elf Elf Jack: Selected Toy fake tattoo, Boy
+Time 158 Elf Elf Jack: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 158 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 158 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 159 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 159 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 160 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 161 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 161 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 161 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 161 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 161 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 161 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 161 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 161 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 162 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 163 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 163 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 163 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 164 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 164 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 165 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 165 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 165 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 166 Elf Elf Jack: Selected Toy train, Boy
+Time 166 Elf Elf Jack: Wrapped Toy train, in Blue wrapping paper.
+Time 166 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 167 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 167 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 167 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 168 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 168 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 168 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 169 Elf Elf Jack: Selected Toy doll, Girl
+Time 169 Elf Elf Jack: Wrapped Toy doll, in Pink wrapping paper.
+Time 169 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 169 Elf Elf Jack: Selected Toy whistle, Girl
+Time 170 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 170 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 171 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 171 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 171 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 171 Elf Elf Jack: Selected Toy train, Girl
+Time 172 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 172 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 173 Elf Elf Jack: Selected Toy whistle, Girl
+Time 174 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 174 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 174 Elf Elf Jack: Selected Toy train, Girl
+Time 174 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 174 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 174 Elf Elf Jack: Selected Toy train, Boy
+Time 175 Elf Elf Jack: Wrapped Toy train, in Blue wrapping paper.
+Time 175 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 176 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 177 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 177 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 178 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 178 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 178 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 178 Elf Elf Jack: Selected Toy fake tattoo, Boy
+Time 179 Elf Elf Jack: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 179 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 180 Elf Elf Jack: Selected Toy fake tattoo, Girl
+Time 180 Elf Elf Jack: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 180 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 180 Elf Elf Jack: Selected Toy train, Girl
+Time 181 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 181 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 182 Elf Elf Jack: Selected Toy whistle, Boy
+Time 182 Elf Elf Jack: Wrapped Toy whistle, in Blue wrapping paper.
+Time 182 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 183 Elf Elf Jack: Selected Toy doll, Boy
+Time 183 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 183 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 183 Elf Elf Jack: Selected Toy doll, Girl
+Time 183 Elf Elf Jack: Wrapped Toy doll, in Pink wrapping paper.
+Time 183 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 183 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 184 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 184 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 184 Elf Elf Jack: Selected Toy train, Girl
+Time 185 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 185 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 185 Elf Elf Jack: Selected Toy train, Boy
+Time 186 Elf Elf Jack: Wrapped Toy train, in Blue wrapping paper.
+Time 186 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 187 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 187 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 187 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 188 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 188 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 188 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 189 Elf Elf Jack: Selected Toy train, Boy
+Time 189 Elf Elf Jack: Wrapped Toy train, in Blue wrapping paper.
+Time 189 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 190 Elf Elf Jack: Selected Toy whistle, Boy
+Time 190 Elf Elf Jack: Wrapped Toy whistle, in Blue wrapping paper.
+Time 190 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 190 Elf Elf Jack: Selected Toy doll, Boy
+Time 190 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 190 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 191 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 192 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 192 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 193 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 193 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 193 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 194 Elf Elf Jack: Selected Toy doll, Girl
+Time 194 Elf Elf Jack: Wrapped Toy doll, in Pink wrapping paper.
+Time 194 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 195 Elf Elf Jack: Selected Toy whistle, Boy
+Time 196 Elf Elf Jack: Wrapped Toy whistle, in Blue wrapping paper.
+Time 196 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 196 Elf Elf Jack: Selected Toy whistle, Girl
+Time 197 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 197 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 197 Elf Elf Jack: Selected Toy doll, Girl
+Time 198 Elf Elf Jack: Wrapped Toy doll, in Pink wrapping paper.
+Time 198 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 199 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 199 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 199 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 200 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 201 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 201 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 201 Elf Elf Jack: Selected Toy train, Boy
+Time 202 Elf Elf Jack: Wrapped Toy train, in Blue wrapping paper.
+Time 202 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 202 Elf Elf Jack: Selected Toy whistle, Girl
+Time 202 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 202 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 202 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 203 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 203 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 204 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 204 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 204 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 204 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 205 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 205 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 205 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 205 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 205 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 205 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 205 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 205 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 206 Elf Elf Jack: Selected Toy fake tattoo, Boy
+Time 207 Elf Elf Jack: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 207 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 208 Elf Elf Jack: Selected Toy whistle, Boy
+Time 209 Elf Elf Jack: Wrapped Toy whistle, in Blue wrapping paper.
+Time 209 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 209 Elf Elf Jack: Selected Toy whistle, Girl
+Time 210 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 210 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 210 Elf Elf Jack: Selected Toy train, Girl
+Time 211 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 211 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 211 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 211 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 211 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 212 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 212 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 212 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 212 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 213 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 213 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 214 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 215 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 215 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 215 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 215 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 215 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 216 Elf Elf Jack: Selected Toy train, Girl
+Time 216 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 216 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 217 Elf Elf Jack: Selected Toy doll, Girl
+Time 218 Elf Elf Jack: Wrapped Toy doll, in Pink wrapping paper.
+Time 218 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 218 Elf Elf Jack: Selected Toy whistle, Boy
+Time 219 Elf Elf Jack: Wrapped Toy whistle, in Blue wrapping paper.
+Time 219 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 219 Elf Elf Jack: Selected Toy whistle, Girl
+Time 219 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 219 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 220 Elf Elf Jack: Selected Toy whistle, Boy
+Time 220 Elf Elf Jack: Wrapped Toy whistle, in Blue wrapping paper.
+Time 220 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 220 Elf Elf Jack: Selected Toy fake tattoo, Boy
+Time 221 Elf Elf Jack: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 221 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 221 Elf Elf Jack: Selected Toy fake tattoo, Girl
+Time 222 Elf Elf Jack: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 222 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 222 Elf Elf Jack: Selected Toy fake tattoo, Boy
+Time 222 Elf Elf Jack: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 222 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 223 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 223 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 223 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 223 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 224 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 224 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 224 Elf Elf Jack: Selected Toy whistle, Boy
+Time 225 Elf Elf Jack: Wrapped Toy whistle, in Blue wrapping paper.
+Time 225 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 225 Elf Elf Jack: Selected Toy fake tattoo, Boy
+Time 226 Elf Elf Jack: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 226 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 227 Elf Elf Jack: Selected Toy doll, Girl
+Time 227 Elf Elf Jack: Wrapped Toy doll, in Pink wrapping paper.
+Time 227 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 227 Elf Elf Jack: Selected Toy whistle, Boy
+Time 228 Elf Elf Jack: Wrapped Toy whistle, in Blue wrapping paper.
+Time 228 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 228 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 228 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 228 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 229 Elf Elf Jack: Selected Toy whistle, Boy
+Time 229 Elf Elf Jack: Wrapped Toy whistle, in Blue wrapping paper.
+Time 229 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 230 Elf Elf Jack: Selected Toy doll, Boy
+Time 231 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 231 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 231 Elf Elf Jack: Selected Toy whistle, Girl
+Time 232 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 232 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 232 Elf Elf Jack: Selected Toy fake tattoo, Boy
+Time 232 Elf Elf Jack: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 232 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 233 Elf Elf Jack: Selected Toy whistle, Girl
+Time 234 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 234 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 235 Elf Elf Jack: Selected Toy train, Girl
+Time 236 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 236 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 237 Elf Elf Jack: Selected Toy whistle, Girl
+Time 237 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 237 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 237 Elf Elf Jack: Selected Toy doll, Boy
+Time 237 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 237 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 238 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 239 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 239 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 239 Elf Elf Jack: Selected Toy train, Girl
+Time 239 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 239 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 240 Elf Elf Jack: Selected Toy train, Boy
+Time 241 Elf Elf Jack: Wrapped Toy train, in Blue wrapping paper.
+Time 241 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 241 Elf Elf Jack: Selected Toy fake tattoo, Boy
+Time 242 Elf Elf Jack: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 242 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 242 Elf Elf Jack: Selected Toy train, Boy
+Time 242 Elf Elf Jack: Wrapped Toy train, in Blue wrapping paper.
+Time 242 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 243 Elf Elf Jack: Selected Toy train, Boy
+Time 243 Elf Elf Jack: Wrapped Toy train, in Blue wrapping paper.
+Time 243 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 243 Elf Elf Jack: Selected Toy whistle, Girl
+Time 244 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 244 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 245 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 245 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 245 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 245 Elf Elf Jack: Selected Toy train, Boy
+Time 245 Elf Elf Jack: Wrapped Toy train, in Blue wrapping paper.
+Time 245 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 246 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 247 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 247 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 248 Elf Elf Jack: Selected Toy doll, Boy
+Time 248 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 248 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 249 Elf Elf Jack: Selected Toy doll, Boy
+Time 250 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 250 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 251 Elf Elf Jack: Selected Toy whistle, Girl
+Time 251 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 251 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 252 Elf Elf Jack: Selected Toy doll, Boy
+Time 253 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 253 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 253 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 254 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 254 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 255 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 255 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 255 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 256 Elf Elf Jack: Selected Toy fake tattoo, Girl
+Time 256 Elf Elf Jack: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 256 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 257 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 257 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 257 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 258 Elf Elf Jack: Selected Toy doll, Boy
+Time 258 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 258 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 259 Elf Elf Jack: Selected Toy whistle, Girl
+Time 259 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 259 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 259 Elf Elf Jack: Selected Toy doll, Girl
+Time 260 Elf Elf Jack: Wrapped Toy doll, in Pink wrapping paper.
+Time 260 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 260 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 261 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 261 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 261 Elf Elf Jack: Selected Toy train, Boy
+Time 262 Elf Elf Jack: Wrapped Toy train, in Blue wrapping paper.
+Time 262 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 262 Elf Elf Jack: Selected Toy fake tattoo, Boy
+Time 262 Elf Elf Jack: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 262 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 262 Elf Elf Jack: Selected Toy train, Boy
+Time 262 Elf Elf Jack: Wrapped Toy train, in Blue wrapping paper.
+Time 262 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 263 Elf Elf Jack: Selected Toy doll, Boy
+Time 264 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 264 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 264 Elf Elf Jack: Selected Toy train, Girl
+Time 265 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 265 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 265 Elf Elf Jack: Selected Toy train, Girl
+Time 265 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 265 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 266 Elf Elf Jack: Selected Toy doll, Boy
+Time 267 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 267 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 267 Elf Elf Jack: Selected Toy fake tattoo, Boy
+Time 267 Elf Elf Jack: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 267 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 268 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 269 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 269 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 269 Elf Elf Jack: Selected Toy whistle, Girl
+Time 270 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 270 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 271 Elf Elf Jack: Selected Toy whistle, Girl
+Time 271 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 271 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 271 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 272 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 272 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 272 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 273 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 273 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 274 Elf Elf Jack: Selected Toy doll, Boy
+Time 274 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 274 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 274 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 275 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 275 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 275 Elf Elf Jack: Selected Toy whistle, Boy
+Time 276 Elf Elf Jack: Wrapped Toy whistle, in Blue wrapping paper.
+Time 276 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 277 Elf Elf Jack: Selected Toy train, Boy
+Time 278 Elf Elf Jack: Wrapped Toy train, in Blue wrapping paper.
+Time 278 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 278 Elf Elf Jack: Selected Toy fake tattoo, Girl
+Time 279 Elf Elf Jack: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 279 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 280 Elf Elf Jack: Selected Toy doll, Girl
+Time 281 Elf Elf Jack: Wrapped Toy doll, in Pink wrapping paper.
+Time 281 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 281 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 282 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 282 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 283 Elf Elf Jack: Selected Toy whistle, Girl
+Time 283 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 283 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 284 Elf Elf Jack: Selected Toy fake tattoo, Girl
+Time 284 Elf Elf Jack: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 284 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 285 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 285 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 285 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 285 Elf Elf Jack: Selected Toy train, Boy
+Time 285 Elf Elf Jack: Wrapped Toy train, in Blue wrapping paper.
+Time 285 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 286 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 286 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 286 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 287 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 287 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 287 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 287 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 287 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 287 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 287 Elf Elf Jack: Selected Toy whistle, Boy
+Time 288 Elf Elf Jack: Wrapped Toy whistle, in Blue wrapping paper.
+Time 288 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 289 Elf Elf Jack: Selected Toy doll, Boy
+Time 289 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 289 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 290 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 290 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 290 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 291 Elf Elf Jack: Selected Toy doll, Girl
+Time 291 Elf Elf Jack: Wrapped Toy doll, in Pink wrapping paper.
+Time 291 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 292 Elf Elf Jack: Selected Toy doll, Boy
+Time 292 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 292 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 293 Elf Elf Jack: Selected Toy doll, Boy
+Time 294 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 294 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 294 Elf Elf Jack: Selected Toy train, Girl
+Time 294 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 294 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 294 Elf Elf Jack: Selected Toy train, Girl
+Time 295 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 295 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 295 Elf Elf Jack: Selected Toy whistle, Boy
+Time 296 Elf Elf Jack: Wrapped Toy whistle, in Blue wrapping paper.
+Time 296 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 296 Elf Elf Jack: Selected Toy train, Girl
+Time 297 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 297 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 297 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 297 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 297 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 298 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 298 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 298 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 299 Elf Elf Jack: Selected Toy doll, Girl
+Time 299 Elf Elf Jack: Wrapped Toy doll, in Pink wrapping paper.
+Time 299 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 299 Elf Elf Jack: Selected Toy doll, Boy
+Time 300 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 300 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 300 Elf Elf Jack: Selected Toy train, Girl
+Time 300 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 300 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 300 Elf Elf Jack: Selected Toy doll, Boy
+Time 301 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 301 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 301 Elf Elf Jack: Selected Toy train, Girl
+Time 302 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 302 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 303 Elf Elf Jack: Selected Toy fake tattoo, Boy
+Time 304 Elf Elf Jack: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 304 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 304 Elf Elf Jack: Selected Toy doll, Girl
+Time 304 Elf Elf Jack: Wrapped Toy doll, in Pink wrapping paper.
+Time 304 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 305 Elf Elf Jack: Selected Toy doll, Girl
+Time 305 Elf Elf Jack: Wrapped Toy doll, in Pink wrapping paper.
+Time 305 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 305 Elf Elf Jack: Selected Toy fake tattoo, Boy
+Time 306 Elf Elf Jack: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 306 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 306 Elf Elf Jack: Selected Toy doll, Boy
+Time 307 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 307 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 307 Elf Elf Jack: Selected Toy train, Boy
+Time 308 Elf Elf Jack: Wrapped Toy train, in Blue wrapping paper.
+Time 308 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 309 Elf Elf Jack: Selected Toy train, Girl
+Time 310 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 310 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 310 Elf Elf Jack: Selected Toy train, Girl
+Time 311 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 311 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 311 Elf Elf Jack: Selected Toy doll, Boy
+Time 312 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 312 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 313 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 313 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 313 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 313 Elf Elf Jack: Selected Toy fake tattoo, Boy
+Time 313 Elf Elf Jack: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 313 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 314 Elf Elf Jack: Selected Toy fake tattoo, Boy
+Time 315 Elf Elf Jack: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 315 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 316 Elf Elf Jack: Selected Toy fake tattoo, Girl
+Time 316 Elf Elf Jack: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 316 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 317 Elf Elf Jack: Selected Toy doll, Girl
+Time 317 Elf Elf Jack: Wrapped Toy doll, in Pink wrapping paper.
+Time 317 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 317 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 317 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 317 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 318 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 318 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 318 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 318 Elf Elf Jack: Selected Toy doll, Girl
+Time 319 Elf Elf Jack: Wrapped Toy doll, in Pink wrapping paper.
+Time 319 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 320 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 321 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 321 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 322 Elf Elf Jack: Selected Toy fake tattoo, Girl
+Time 322 Elf Elf Jack: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 322 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 323 Elf Elf Jack: Selected Toy doll, Girl
+Time 323 Elf Elf Jack: Wrapped Toy doll, in Pink wrapping paper.
+Time 323 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 324 Elf Elf Jack: Selected Toy whistle, Girl
+Time 325 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 325 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 325 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 325 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 325 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 326 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 326 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 326 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 327 Elf Elf Jack: Selected Toy whistle, Girl
+Time 327 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 327 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 328 Elf Elf Jack: Selected Toy whistle, Boy
+Time 328 Elf Elf Jack: Wrapped Toy whistle, in Blue wrapping paper.
+Time 328 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 328 Elf Elf Jack: Selected Toy doll, Boy
+Time 329 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 329 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 330 Elf Elf Jack: Selected Toy doll, Boy
+Time 330 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 330 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 330 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 330 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 331 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 331 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 332 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 332 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 332 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 332 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 332 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 333 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 333 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 333 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 334 Elf Elf Jack: Selected Toy whistle, Boy
+Time 334 Elf Elf Jack: Wrapped Toy whistle, in Blue wrapping paper.
+Time 334 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 335 Elf Elf Jack: Selected Toy fake tattoo, Girl
+Time 336 Elf Elf Jack: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 336 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 336 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 337 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 337 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 337 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 338 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 338 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 338 Elf Elf Jack: Selected Toy train, Boy
+Time 338 Elf Elf Jack: Wrapped Toy train, in Blue wrapping paper.
+Time 338 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 338 Elf Elf Jack: Selected Toy whistle, Girl
+Time 338 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 338 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 339 Elf Elf Jack: Selected Toy train, Boy
+Time 339 Elf Elf Jack: Wrapped Toy train, in Blue wrapping paper.
+Time 339 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 339 Elf Elf Jack: Selected Toy train, Boy
+Time 340 Elf Elf Jack: Wrapped Toy train, in Blue wrapping paper.
+Time 340 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 341 Elf Elf Jack: Selected Toy train, Girl
+Time 341 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 341 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 342 Elf Elf Jack: Selected Toy whistle, Girl
+Time 343 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 343 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 343 Elf Elf Jack: Selected Toy train, Boy
+Time 343 Elf Elf Jack: Wrapped Toy train, in Blue wrapping paper.
+Time 343 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 344 Elf Elf Jack: Selected Toy train, Boy
+Time 345 Elf Elf Jack: Wrapped Toy train, in Blue wrapping paper.
+Time 345 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 346 Elf Elf Jack: Selected Toy whistle, Boy
+Time 346 Elf Elf Jack: Wrapped Toy whistle, in Blue wrapping paper.
+Time 346 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 347 Elf Elf Jack: Selected Toy train, Girl
+Time 347 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 347 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 348 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 348 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 348 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 349 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 349 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 349 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 350 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 350 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 350 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 351 Elf Elf Jack: Selected Toy whistle, Boy
+Time 352 Elf Elf Jack: Wrapped Toy whistle, in Blue wrapping paper.
+Time 352 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 352 Elf Elf Jack: Selected Toy train, Boy
+Time 353 Elf Elf Jack: Wrapped Toy train, in Blue wrapping paper.
+Time 353 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 353 Elf Elf Jack: Selected Toy whistle, Boy
+Time 353 Elf Elf Jack: Wrapped Toy whistle, in Blue wrapping paper.
+Time 353 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 354 Elf Elf Jack: Selected Toy doll, Boy
+Time 354 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 354 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 355 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 355 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 355 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 356 Elf Elf Jack: Selected Toy train, Girl
+Time 356 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 356 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 357 Elf Elf Jack: Selected Toy fake tattoo, Girl
+Time 357 Elf Elf Jack: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 357 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 358 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 358 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 358 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 359 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 360 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 360 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 361 Elf Elf Jack: Selected Toy fake tattoo, Boy
+Time 361 Elf Elf Jack: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 361 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 362 Elf Elf Jack: Selected Toy whistle, Boy
+Time 363 Elf Elf Jack: Wrapped Toy whistle, in Blue wrapping paper.
+Time 363 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 363 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 364 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 364 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 365 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 366 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 366 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 367 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 367 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 367 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 368 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 369 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 369 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 370 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 370 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 370 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 371 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 372 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 372 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 373 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 373 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 373 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 374 Elf Elf Jack: Selected Toy fake tattoo, Boy
+Time 375 Elf Elf Jack: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 375 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 375 Elf Elf Jack: Selected Toy doll, Boy
+Time 376 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 376 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 376 Elf Elf Jack: Selected Toy doll, Boy
+Time 376 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 376 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 377 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 377 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 377 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 377 Elf Elf Jack: Selected Toy doll, Girl
+Time 378 Elf Elf Jack: Wrapped Toy doll, in Pink wrapping paper.
+Time 378 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 379 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 379 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 379 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 379 Elf Elf Jack: Selected Toy train, Girl
+Time 379 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 379 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 380 Elf Elf Jack: Selected Toy doll, Boy
+Time 380 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 380 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 380 Elf Elf Jack: Selected Toy whistle, Girl
+Time 381 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 381 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 382 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 383 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 383 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 384 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 384 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 384 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 384 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 385 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 385 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 385 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 386 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 386 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 386 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 386 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 386 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 386 Elf Elf Jack: Selected Toy fake tattoo, Girl
+Time 387 Elf Elf Jack: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 387 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 387 Elf Elf Jack: Selected Toy doll, Boy
+Time 388 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 388 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 388 Elf Elf Jack: Selected Toy doll, Girl
+Time 389 Elf Elf Jack: Wrapped Toy doll, in Pink wrapping paper.
+Time 389 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 390 Elf Elf Jack: Selected Toy doll, Boy
+Time 390 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 390 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 391 Elf Elf Jack: Selected Toy fake tattoo, Boy
+Time 392 Elf Elf Jack: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 392 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 392 Elf Elf Jack: Selected Toy whistle, Girl
+Time 392 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 392 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 393 Elf Elf Jack: Selected Toy doll, Boy
+Time 393 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 393 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 393 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 394 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 394 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 394 Elf Elf Jack: Selected Toy doll, Girl
+Time 395 Elf Elf Jack: Wrapped Toy doll, in Pink wrapping paper.
+Time 395 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 396 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 396 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 396 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 397 Elf Elf Jack: Selected Toy doll, Girl
+Time 397 Elf Elf Jack: Wrapped Toy doll, in Pink wrapping paper.
+Time 397 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 398 Elf Elf Jack: Selected Toy train, Girl
+Time 398 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 398 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 398 Elf Elf Jack: Selected Toy whistle, Boy
+Time 399 Elf Elf Jack: Wrapped Toy whistle, in Blue wrapping paper.
+Time 399 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 400 Elf Elf Jack: Selected Toy fake tattoo, Girl
+Time 400 Elf Elf Jack: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 400 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 400 Elf Elf Jack: Selected Toy whistle, Boy
+Time 401 Elf Elf Jack: Wrapped Toy whistle, in Blue wrapping paper.
+Time 401 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 402 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 403 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 403 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 403 Elf Elf Jack: Selected Toy doll, Girl
+Time 404 Elf Elf Jack: Wrapped Toy doll, in Pink wrapping paper.
+Time 404 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 404 Elf Elf Jack: Selected Toy doll, Boy
+Time 404 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 404 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 404 Elf Elf Jack: Selected Toy fake tattoo, Boy
+Time 404 Elf Elf Jack: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 404 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 405 Elf Elf Jack: Selected Toy doll, Boy
+Time 406 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 406 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 406 Elf Elf Jack: Selected Toy whistle, Girl
+Time 407 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 407 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 407 Elf Elf Jack: Selected Toy train, Girl
+Time 407 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 407 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 408 Elf Elf Jack: Selected Toy train, Girl
+Time 409 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 409 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 409 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 410 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 410 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 411 Elf Elf Jack: Selected Toy fake tattoo, Boy
+Time 411 Elf Elf Jack: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 411 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 412 Elf Elf Jack: Selected Toy doll, Girl
+Time 413 Elf Elf Jack: Wrapped Toy doll, in Pink wrapping paper.
+Time 413 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 413 Elf Elf Jack: Selected Toy doll, Boy
+Time 413 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 413 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 414 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 414 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 414 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 415 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 415 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 415 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 415 Elf Elf Jack: Selected Toy fake tattoo, Girl
+Time 416 Elf Elf Jack: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 416 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 416 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 417 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 417 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 418 Elf Elf Jack: Selected Toy doll, Boy
+Time 418 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 418 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 419 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 419 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 419 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 419 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 420 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 420 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 420 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 420 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 420 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 421 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 421 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 421 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 422 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 422 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 422 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 423 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 423 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 423 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 423 Elf Elf Jack: Selected Toy doll, Boy
+Time 424 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 424 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 424 Elf Elf Jack: Selected Toy train, Girl
+Time 425 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 425 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 426 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 427 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 427 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 427 Elf Elf Jack: Selected Toy doll, Boy
+Time 427 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 427 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 427 Elf Elf Jack: Selected Toy train, Girl
+Time 428 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 428 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 428 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 428 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 428 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 428 Elf Elf Jack: Selected Toy fake tattoo, Boy
+Time 429 Elf Elf Jack: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 429 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 429 Elf Elf Jack: Selected Toy doll, Boy
+Time 429 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 429 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 430 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 430 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 430 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 430 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 430 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 430 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 431 Elf Elf Jack: Selected Toy doll, Girl
+Time 431 Elf Elf Jack: Wrapped Toy doll, in Pink wrapping paper.
+Time 431 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 432 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 433 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 433 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 433 Elf Elf Jack: Selected Toy doll, Girl
+Time 434 Elf Elf Jack: Wrapped Toy doll, in Pink wrapping paper.
+Time 434 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 434 Elf Elf Jack: Selected Toy doll, Girl
+Time 435 Elf Elf Jack: Wrapped Toy doll, in Pink wrapping paper.
+Time 435 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 435 Elf Elf Jack: Selected Toy fake tattoo, Boy
+Time 436 Elf Elf Jack: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 436 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 436 Elf Elf Jack: Selected Toy whistle, Girl
+Time 437 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 437 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 437 Elf Elf Jack: Selected Toy whistle, Girl
+Time 438 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 438 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 438 Elf Elf Jack: Selected Toy doll, Boy
+Time 439 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 439 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 440 Elf Elf Jack: Selected Toy fake tattoo, Boy
+Time 441 Elf Elf Jack: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 441 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 441 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 442 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 442 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 442 Elf Elf Jack: Selected Toy train, Girl
+Time 443 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 443 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 444 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 444 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 444 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 445 Elf Elf Jack: Selected Toy whistle, Girl
+Time 445 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 445 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 445 Elf Elf Jack: Selected Toy dinosaur, Girl
+Time 446 Elf Elf Jack: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 446 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 446 Elf Elf Jack: Selected Toy whistle, Girl
+Time 447 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 447 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 448 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 448 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 448 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 448 Elf Elf Jack: Selected Toy train, Girl
+Time 449 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 449 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 449 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 450 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 450 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 451 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 451 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 451 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 452 Elf Elf Jack: Selected Toy train, Boy
+Time 452 Elf Elf Jack: Wrapped Toy train, in Blue wrapping paper.
+Time 452 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 452 Elf Elf Jack: Selected Toy doll, Boy
+Time 453 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 453 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 453 Elf Elf Jack: Selected Toy whistle, Girl
+Time 454 Elf Elf Jack: Wrapped Toy whistle, in Pink wrapping paper.
+Time 454 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 454 Elf Elf Jack: Selected Toy doll, Girl
+Time 455 Elf Elf Jack: Wrapped Toy doll, in Pink wrapping paper.
+Time 455 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 456 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 456 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 456 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 457 Elf Elf Jack: Selected Toy train, Girl
+Time 457 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 457 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 458 Elf Elf Jack: Selected Toy whistle, Boy
+Time 459 Elf Elf Jack: Wrapped Toy whistle, in Blue wrapping paper.
+Time 459 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 459 Elf Elf Jack: Selected Toy fake tattoo, Girl
+Time 460 Elf Elf Jack: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 460 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 460 Elf Elf Jack: Selected Toy train, Boy
+Time 461 Elf Elf Jack: Wrapped Toy train, in Blue wrapping paper.
+Time 461 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 462 Elf Elf Jack: Selected Toy fake tattoo, Boy
+Time 462 Elf Elf Jack: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 462 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 463 Elf Elf Jack: Selected Toy whistle, Boy
+Time 463 Elf Elf Jack: Wrapped Toy whistle, in Blue wrapping paper.
+Time 463 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 463 Elf Elf Jack: Selected Toy fake tattoo, Girl
+Time 463 Elf Elf Jack: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 463 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 464 Elf Elf Jack: Selected Toy whistle, Boy
+Time 465 Elf Elf Jack: Wrapped Toy whistle, in Blue wrapping paper.
+Time 465 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 466 Elf Elf Jack: Selected Toy train, Boy
+Time 466 Elf Elf Jack: Wrapped Toy train, in Blue wrapping paper.
+Time 466 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 466 Elf Elf Jack: Selected Toy fake tattoo, Girl
+Time 467 Elf Elf Jack: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 467 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 467 Elf Elf Jack: Selected Toy fake tattoo, Boy
+Time 467 Elf Elf Jack: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 467 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 468 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 468 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 468 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 469 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 469 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 469 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 470 Elf Elf Jack: Selected Toy whistle, Boy
+Time 470 Elf Elf Jack: Wrapped Toy whistle, in Blue wrapping paper.
+Time 470 Elf Elf Jack: Placed Toy whistle, on the sleigh. 
+Time 471 Elf Elf Jack: Selected Toy fake tattoo, Girl
+Time 471 Elf Elf Jack: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 471 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 472 Elf Elf Jack: Selected Toy train, Girl
+Time 472 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 472 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 472 Elf Elf Jack: Selected Toy fake tattoo, Girl
+Time 473 Elf Elf Jack: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 473 Elf Elf Jack: Placed Toy fake tattoo, on the sleigh. 
+Time 473 Elf Elf Jack: Selected Toy dinosaur, Boy
+Time 473 Elf Elf Jack: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 473 Elf Elf Jack: Placed Toy dinosaur, on the sleigh. 
+Time 474 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 474 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 474 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 474 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 475 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 475 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 476 Elf Elf Jack: Selected Toy train, Girl
+Time 476 Elf Elf Jack: Wrapped Toy train, in Pink wrapping paper.
+Time 476 Elf Elf Jack: Placed Toy train, on the sleigh. 
+Time 477 Elf Elf Jack: Selected Toy doll, Girl
+Time 478 Elf Elf Jack: Wrapped Toy doll, in Pink wrapping paper.
+Time 478 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 478 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 478 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 478 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 478 Elf Elf Jack: Selected Toy doll, Boy
+Time 479 Elf Elf Jack: Wrapped Toy doll, in Blue wrapping paper.
+Time 479 Elf Elf Jack: Placed Toy doll, on the sleigh. 
+Time 479 Elf Elf Jack: Selected Toy bracelet, Girl
+Time 479 Elf Elf Jack: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 479 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 
+Time 480 Elf Elf Jack: Selected Toy bracelet, Boy
+Time 480 Elf Elf Jack: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 480 Elf Elf Jack: Placed Toy bracelet, on the sleigh. 

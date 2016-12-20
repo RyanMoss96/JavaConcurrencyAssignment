@@ -1,0 +1,132 @@
+Time 1 Elf Elf Beradin3: Selected Toy doll, Girl
+Time 2 Elf Elf Beradin3: Wrapped Toy doll, in Pink wrapping paper.
+Time 2 Elf Elf Beradin3: Placed Toy doll, on the sleigh. 
+Time 3 Elf Elf Beradin3: Selected Toy whistle, Boy
+Time 3 Elf Elf Beradin3: Wrapped Toy whistle, in Blue wrapping paper.
+Time 3 Elf Elf Beradin3: Placed Toy whistle, on the sleigh. 
+Time 4 Elf Elf Beradin3: Selected Toy dinosaur, Girl
+Time 5 Elf Elf Beradin3: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 5 Elf Elf Beradin3: Placed Toy dinosaur, on the sleigh. 
+Time 7 Elf Elf Beradin3: Selected Toy doll, Boy
+Time 8 Elf Elf Beradin3: Wrapped Toy doll, in Blue wrapping paper.
+Time 8 Elf Elf Beradin3: Placed Toy doll, on the sleigh. 
+Time 12 Elf Elf Beradin3: Selected Toy bracelet, Boy
+Time 13 Elf Elf Beradin3: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 13 Elf Elf Beradin3: Placed Toy bracelet, on the sleigh. 
+Time 16 Elf Elf Beradin3: Selected Toy whistle, Girl
+Time 17 Elf Elf Beradin3: Wrapped Toy whistle, in Pink wrapping paper.
+Time 17 Elf Elf Beradin3: Placed Toy whistle, on the sleigh. 
+Time 21 Elf Elf Beradin3: Selected Toy bracelet, Boy
+Time 22 Elf Elf Beradin3: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 22 Elf Elf Beradin3: Placed Toy bracelet, on the sleigh. 
+Time 25 Elf Elf Beradin3: Selected Toy dinosaur, Girl
+Time 26 Elf Elf Beradin3: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 26 Elf Elf Beradin3: Placed Toy dinosaur, on the sleigh. 
+Time 31 Elf Elf Beradin3: Selected Toy train, Girl
+Time 31 Elf Elf Beradin3: Wrapped Toy train, in Pink wrapping paper.
+Time 31 Elf Elf Beradin3: Placed Toy train, on the sleigh. 
+Time 35 Elf Elf Beradin3: Selected Toy dinosaur, Girl
+Time 36 Elf Elf Beradin3: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 36 Elf Elf Beradin3: Placed Toy dinosaur, on the sleigh. 
+Time 39 Elf Elf Beradin3: Selected Toy dinosaur, Girl
+Time 40 Elf Elf Beradin3: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 40 Elf Elf Beradin3: Placed Toy dinosaur, on the sleigh. 
+Time 44 Elf Elf Beradin3: Selected Toy dinosaur, Boy
+Time 45 Elf Elf Beradin3: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 45 Elf Elf Beradin3: Placed Toy dinosaur, on the sleigh. 
+Time 49 Elf Elf Beradin3: Selected Toy dinosaur, Boy
+Time 49 Elf Elf Beradin3: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 49 Elf Elf Beradin3: Placed Toy dinosaur, on the sleigh. 
+Time 53 Elf Elf Beradin3: Selected Toy bracelet, Girl
+Time 53 Elf Elf Beradin3: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 53 Elf Elf Beradin3: Placed Toy bracelet, on the sleigh. 
+Time 57 Elf Elf Beradin3: Selected Toy whistle, Boy
+Time 57 Elf Elf Beradin3: Wrapped Toy whistle, in Blue wrapping paper.
+Time 57 Elf Elf Beradin3: Placed Toy whistle, on the sleigh. 
+Time 61 Elf Elf Beradin3: Selected Toy train, Girl
+Time 62 Elf Elf Beradin3: Wrapped Toy train, in Pink wrapping paper.
+Time 62 Elf Elf Beradin3: Placed Toy train, on the sleigh. 
+Time 66 Elf Elf Beradin3: Selected Toy fake tattoo, Girl
+Time 66 Elf Elf Beradin3: Wrapped Toy fake tattoo, in Pink wrapping paper.
+Time 66 Elf Elf Beradin3: Placed Toy fake tattoo, on the sleigh. 
+Time 70 Elf Elf Beradin3: Selected Toy fake tattoo, Boy
+Time 71 Elf Elf Beradin3: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 71 Elf Elf Beradin3: Placed Toy fake tattoo, on the sleigh. 
+Time 75 Elf Elf Beradin3: Selected Toy dinosaur, Girl
+Time 76 Elf Elf Beradin3: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 76 Elf Elf Beradin3: Placed Toy dinosaur, on the sleigh. 
+Time 80 Elf Elf Beradin3: Selected Toy whistle, Girl
+Time 81 Elf Elf Beradin3: Wrapped Toy whistle, in Pink wrapping paper.
+Time 81 Elf Elf Beradin3: Placed Toy whistle, on the sleigh. 
+Time 84 Elf Elf Beradin3: Selected Toy whistle, Girl
+Time 84 Elf Elf Beradin3: Wrapped Toy whistle, in Pink wrapping paper.
+Time 84 Elf Elf Beradin3: Placed Toy whistle, on the sleigh. 
+Time 89 Elf Elf Beradin3: Selected Toy whistle, Girl
+Time 90 Elf Elf Beradin3: Wrapped Toy whistle, in Pink wrapping paper.
+Time 90 Elf Elf Beradin3: Placed Toy whistle, on the sleigh. 
+Time 93 Elf Elf Beradin3: Selected Toy whistle, Girl
+Time 94 Elf Elf Beradin3: Wrapped Toy whistle, in Pink wrapping paper.
+Time 94 Elf Elf Beradin3: Placed Toy whistle, on the sleigh. 
+Time 98 Elf Elf Beradin3: Selected Toy doll, Boy
+Time 99 Elf Elf Beradin3: Wrapped Toy doll, in Blue wrapping paper.
+Time 99 Elf Elf Beradin3: Placed Toy doll, on the sleigh. 
+Time 103 Elf Elf Beradin3: Selected Toy whistle, Boy
+Time 103 Elf Elf Beradin3: Wrapped Toy whistle, in Blue wrapping paper.
+Time 103 Elf Elf Beradin3: Placed Toy whistle, on the sleigh. 
+Time 107 Elf Elf Beradin3: Selected Toy dinosaur, Girl
+Time 108 Elf Elf Beradin3: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 108 Elf Elf Beradin3: Placed Toy dinosaur, on the sleigh. 
+Time 112 Elf Elf Beradin3: Selected Toy bracelet, Girl
+Time 112 Elf Elf Beradin3: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 112 Elf Elf Beradin3: Placed Toy bracelet, on the sleigh. 
+Time 116 Elf Elf Beradin3: Selected Toy whistle, Boy
+Time 117 Elf Elf Beradin3: Wrapped Toy whistle, in Blue wrapping paper.
+Time 117 Elf Elf Beradin3: Placed Toy whistle, on the sleigh. 
+Time 121 Elf Elf Beradin3: Selected Toy train, Girl
+Time 122 Elf Elf Beradin3: Wrapped Toy train, in Pink wrapping paper.
+Time 122 Elf Elf Beradin3: Placed Toy train, on the sleigh. 
+Time 126 Elf Elf Beradin3: Selected Toy bracelet, Girl
+Time 127 Elf Elf Beradin3: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 127 Elf Elf Beradin3: Placed Toy bracelet, on the sleigh. 
+Time 130 Elf Elf Beradin3: Selected Toy bracelet, Girl
+Time 131 Elf Elf Beradin3: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 131 Elf Elf Beradin3: Placed Toy bracelet, on the sleigh. 
+Time 135 Elf Elf Beradin3: Selected Toy whistle, Boy
+Time 136 Elf Elf Beradin3: Wrapped Toy whistle, in Blue wrapping paper.
+Time 136 Elf Elf Beradin3: Placed Toy whistle, on the sleigh. 
+Time 140 Elf Elf Beradin3: Selected Toy whistle, Boy
+Time 141 Elf Elf Beradin3: Wrapped Toy whistle, in Blue wrapping paper.
+Time 141 Elf Elf Beradin3: Placed Toy whistle, on the sleigh. 
+Time 145 Elf Elf Beradin3: Selected Toy bracelet, Boy
+Time 145 Elf Elf Beradin3: Wrapped Toy bracelet, in Blue wrapping paper.
+Time 145 Elf Elf Beradin3: Placed Toy bracelet, on the sleigh. 
+Time 149 Elf Elf Beradin3: Selected Toy bracelet, Girl
+Time 150 Elf Elf Beradin3: Wrapped Toy bracelet, in Pink wrapping paper.
+Time 150 Elf Elf Beradin3: Placed Toy bracelet, on the sleigh. 
+Time 154 Elf Elf Beradin3: Selected Toy train, Boy
+Time 155 Elf Elf Beradin3: Wrapped Toy train, in Blue wrapping paper.
+Time 155 Elf Elf Beradin3: Placed Toy train, on the sleigh. 
+Time 158 Elf Elf Beradin3: Selected Toy train, Girl
+Time 159 Elf Elf Beradin3: Wrapped Toy train, in Pink wrapping paper.
+Time 159 Elf Elf Beradin3: Placed Toy train, on the sleigh. 
+Time 163 Elf Elf Beradin3: Selected Toy fake tattoo, Boy
+Time 163 Elf Elf Beradin3: Wrapped Toy fake tattoo, in Blue wrapping paper.
+Time 163 Elf Elf Beradin3: Placed Toy fake tattoo, on the sleigh. 
+Time 167 Elf Elf Beradin3: Selected Toy dinosaur, Boy
+Time 168 Elf Elf Beradin3: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 168 Elf Elf Beradin3: Placed Toy dinosaur, on the sleigh. 
+Time 172 Elf Elf Beradin3: Selected Toy dinosaur, Boy
+Time 172 Elf Elf Beradin3: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 172 Elf Elf Beradin3: Placed Toy dinosaur, on the sleigh. 
+Time 177 Elf Elf Beradin3: Selected Toy doll, Boy
+Time 177 Elf Elf Beradin3: Wrapped Toy doll, in Blue wrapping paper.
+Time 177 Elf Elf Beradin3: Placed Toy doll, on the sleigh. 
+Time 181 Elf Elf Beradin3: Selected Toy dinosaur, Girl
+Time 182 Elf Elf Beradin3: Wrapped Toy dinosaur, in Pink wrapping paper.
+Time 182 Elf Elf Beradin3: Placed Toy dinosaur, on the sleigh. 
+Time 186 Elf Elf Beradin3: Selected Toy whistle, Boy
+Time 187 Elf Elf Beradin3: Wrapped Toy whistle, in Blue wrapping paper.
+Time 187 Elf Elf Beradin3: Placed Toy whistle, on the sleigh. 
+Time 192 Elf Elf Beradin3: Selected Toy dinosaur, Boy
+Time 192 Elf Elf Beradin3: Wrapped Toy dinosaur, in Blue wrapping paper.
+Time 192 Elf El

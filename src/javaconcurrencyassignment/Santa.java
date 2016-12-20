@@ -35,7 +35,7 @@ public class Santa extends Thread {
         this.clock = clock;
         department = departments[randInt(0,5)];
         
-        walk_time = ThreadLocalRandom.current().nextInt(500, 1001);
+        walk_time = (int) (Math.random() * 1001);
         
         santaSack = new Sack();
         
@@ -49,13 +49,28 @@ public class Santa extends Thread {
 
         while (!clock.dayOver()) {
             
+            int start = 0;
+            
+            boolean emptySleigh = sleigh.sleighEmpty();
+            
+            if(emptySleigh) {
+                start = clock.getTime();
+            }
            
-            int start = clock.getTime();
             while (santaSack.isEmpty()) {
-                getPresents();
+                if(sleigh.getNumberPresents() < 6) {
+                    
+                } else {
+                    getPresents();
+                }
+                
             }
             
-            time_at_empty_sleigh += clock.getTime() - start;
+            if(emptySleigh) {
+               time_at_empty_sleigh += clock.getTime() - start;
+            }
+            
+            
 
             //Walking back to their department
             try {
@@ -95,7 +110,7 @@ public class Santa extends Thread {
 
         //Spend a random amount of time with each child
         try {
-             sleep(ThreadLocalRandom.current().nextInt(500, 1001));
+             sleep((int) (Math.random() * 1001));
         } catch (InterruptedException ex) {
 
         }
@@ -140,6 +155,7 @@ public class Santa extends Thread {
     }
 
     private void reportToConsole() {
+        System.out.println("FINAL REPORT");
         System.out.println(name + " has given away " + num_presents_given + " presents.");
         System.out.println(name + " spent " + time_at_empty_sleigh + "ticks at an empty sleigh");
     }

@@ -43,10 +43,11 @@ public class Elf extends Thread {
         openFileForWriting();
 
         while (!clock.dayOver()) {
-            //System.out.println(sleigh.spaces);
+           
+            
             //Selecting a present for a random amount of time
             try {
-                sleep(ThreadLocalRandom.current().nextInt(500, 1001));
+                sleep((int) (Math.random() * 1001));
             } catch (InterruptedException ex) {
 
             }
@@ -79,7 +80,7 @@ public class Elf extends Thread {
     private void wrapPresent() {
         //Random time to simulate wrapping the present
         try {
-            sleep(ThreadLocalRandom.current().nextInt(500, 1001));
+            sleep((int) (Math.random() * 1001));
         } catch (InterruptedException ex) {
 
         }
@@ -157,6 +158,7 @@ public class Elf extends Thread {
     }
 
     private void reportToConsole() {
+        System.out.println("FINAL REPORT");
         System.out.println(name + " wrapped and placed " + total_presents_wrapped + " on the sleigh.");
         System.out.println(name + " spent " + time_at_sleigh + "ticks at the sleigh");
     }
