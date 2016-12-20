@@ -38,7 +38,7 @@ public class Sack {
         return presents[i].gender;
     }
     
-    public Presents removeToy(String gender) {
+    public Presents removeToy() {
         
         Presents present;
         present = presents[nextOut];

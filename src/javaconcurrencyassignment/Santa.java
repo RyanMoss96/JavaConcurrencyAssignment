@@ -115,9 +115,8 @@ public class Santa extends Thread {
 
         }
 
-        String gender = selectGender();
-
-        Presents present = santaSack.removeToy(gender);
+        
+        Presents present = santaSack.removeToy();
         num_presents_given++;
 
         writeToFile("Time " + clock.getTime() + name + ": Gave Toy " + present.type + ", " + present.gender);

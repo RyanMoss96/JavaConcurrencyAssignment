@@ -24,6 +24,10 @@ public class Sleigh {
     private int nextIn = 0;
     private int nextOut = 0;
     
+    
+    private int total_added = 0;
+    private int total_removed = 0;
+    
   
   public Sleigh() {
         spaces = new Semaphore(maxPresents);
@@ -42,6 +46,7 @@ public class Sleigh {
         
         presents[nextIn] = item;
         numPresents++;
+        total_added++;
         
         
         
@@ -66,6 +71,7 @@ public class Sleigh {
         Presents present;
         present = presents[nextOut];
         numPresents--;
+        total_removed++;
         
        
         
@@ -137,6 +143,7 @@ public class Sleigh {
   public void report() {
       System.out.println("SLEIGH REPORT");
        System.out.println("Items left on sleigh: " + numPresents);
+       System.out.println("Total Added - Total Removed - Total left: " + (total_added - total_removed - numPresents));
   }
     
 }
